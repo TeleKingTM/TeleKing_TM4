@@ -1,15 +1,15 @@
 *---------------------------------------------------------*
 *---------------------------------------------------------*
 
-## AntiSpam_TM
+## TeleKing_TM
 
 ## By Kia Pashang
 
-## This Is An Original Bot And Based On (AntiSpam , Version 4 Final).
+## This Is An Original Bot And Based On (TeleKing , Version 4 Final).
 
 ## Copyright All Right Reserved And You Must Respect All Laws.
 
-## Clone : https://bitbucket.org/AntiSpam99/AntiSpam_TM4.git
+## Clone :https://github.com/TeleKingTM/TeleKing_TM4.git
 
 ## Note : This Is One Of My Private Repositoies
 
@@ -17,11 +17,11 @@
 
 ## جهت سفارش ساخت یا خرید ربات و نصب بر روی سرور با آیدی یا شماره زیر در ارتباط باشید
 
-## Creators Telegram ID : @To_My_Amigos
+## Creators Telegram ID : @Sudo_boy2017
 
-## Phone Number : +989213985504
+## Phone Number : +989146383322
 
-## Our Channel : @AntiSpam_TM
+## Our Channel : @TeleKing_TM
 
 *----------------------------------------------------------*		
 *----------------------------------------------------------*
@@ -80,7 +80,7 @@
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://bitbucket.org/AntiSpam99/AntiSpam_TM4.git && cd AntiSpam_TM4
+git clone https://github.com/TeleKingTM/TeleKing_TM4.git && cd TeleKing_TM4
 ```
 - <p align="left">install bot:
 ```sh
