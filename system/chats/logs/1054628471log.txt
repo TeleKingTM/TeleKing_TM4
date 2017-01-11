@@ -1,0 +1,2721 @@
+[ Sat Jan  7 09:55:08 2017 ]=>  Boss [306398602] used /get /add
+ 
+[ Sat Jan  7 09:55:09 2017 ]=>  《_AntiSpam_》™ [188813923] used /get SuperGroup Has Been Added
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 09:55:12 2017 ]=>  Boss [306398602] used /get /help
+ 
+[ Sat Jan  7 09:55:13 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+** SuperGroup English Help Text With English Commands **
+
+⚓️!block
+Kicks a user from SuperGroup
+			
+⚓️!kick
+Kicks a user from SuperGroup	
+			
+⚓️!who
+Gives you a list of members
+			
+⚓️!ban
+Bans user from the SuperGroup
+			
+⚓️!unban
+Unbans user from the SuperGroup
+			
+⚓️!id from
+Get ID of user message is forwarded from
+			
+⚓️!promote [username|id]
+Promote a SuperGroup moderator
+			
+⚓️!demote [username|id]
+Demote a SuperGroup moderator
+						
+⚓️!setadmin [username|id]
+Promote a SuperGroup admin		
+			
+⚓️!demoteadmin [username|id]
+Demote a SuperGroup admin	
+						
+⚓️[!setname|!setphoto|!setrules|!setabout]
+Sets the chat name, photo, rules, about text
+			
+⚓️!newlink
+Generates a new group link
+			
+⚓️!link
+Retireives the group link
+			
+⚓️[!lock|!unlock] [link|flood|spam|arabic|english|member|rtl|sticker|contacts|strict|media|bots|fwd|reply|share|tag|number|badwords|cmd|username|all]
+Lock group settings
+						
+⚓️!setflood [value]
+Set [value] as flood sensitivity, Max:20 and Min:2
+			
+⚓️!settings
+Returns chat settings
+
+⚓️[!silent] [reply on users msg|username|id ]
+Silents user
+
+⚓️[!unsilent] [reply on users msg|username|id ]
+Unsilents user
+			
+⚓️!silentlist
+Returns mutes or mute lists for chat
+
+⚓️[!whitelist] [reply on users msg|username|id ]
+Adds user/bot to whitelist
+		
+⚓️!banlist
+Returns SuperGroup ban list
+
+⚓️!rmsg [value]
+Delets groups message by value
+			
+⚓️!clean [rules|about|modlist|silentlist|deleted|whitelist]
+Cleans those you see or (deleted) kicks deleted accounts
+			
+⚓️!clear members		
+Kicks All Members
+
+⚓️!del
+Deletes a message by reply
+			
+⚓️!public [yes|no]
+Set chat visibility in pm !chats or !chatlist commands
+
+⚓️!chats
+Show list of bot groups in pv
+			
+⚓️!broadcast [text]
+Send this command in PV . the bot well send your massege to all groups and supergroups
+
+⚓️!muteall
+Mute's all
+
+⚓️!muteall h m s 
+Muteall witn timer
+h Hour(s)
+m Minute(s)
+s Second(s)
+
+⚓️!chat + [text]
+Saves a text with its first words name
+			
+⚓️!chat - [text]
+Removes the saved text
+			
+⚓️!chat rm
+Removes all saved texts
+			
+⚓️!antibot [enable / disable / allow / disallow]
+activating anti-bot for let then enter or not fo channels
+			
+** SuperGroup Commands: (For memebers and moderators!) **
+
+⚓️!tophoto
+Converts sticker to photo
+			
+⚓️!tosticker
+Converts photo to sticker
+
+⚓️!weather [Place]
+Gives you news about that places weathe you want
+			
+⚓️!version
+Displays a general text about the AntiSpam Cli Bot  
+			
+⚓️!info
+Displays general info about the SuperGroup
+			
+⚓️!admins
+Returns SuperGroup admins list
+			
+⚓️!owner
+Returns group owner
+			
+⚓️!modlist
+Returns Moderators list
+			
+⚓️!id
+Return SuperGroup ID And user id
+			
+⚓️!kickme
+Kicks user from SuperGroup
+			
+⚓️!note text
+Add a note
+			
+⚓️!mynote
+Get note
+								
+⚓️!rules
+Retrieves the chat rules
+					
+⚓️!me
+Shows your rank
+			
+⚓️!dler
+Download files from link specialy from aparat
+			
+⚓️!time
+Shows IRAN's time and date
+
+***********************************
+
+🌹Welcome To AntiSpam_TM Support🌹
+
+Channel :《 @AntiSpam_TM 》™
+
+Creator : 《 @To_My_Amigos 》
+
+Reports : 《 @To_My_Amigos_Bot 》
+
+😊 Who Start's The Fight Get's Removed 
+So Be Friends 😊
+
+Link :
+
+https://telegram.me/joinchat/EkNFij7cWnespVgwzrlABQ
+
+************************************
+
+ 
+[ Sat Jan  7 09:56:02 2017 ]=>  Boss [306398602] used /get #promote
+ 
+[ Sat Jan  7 09:56:03 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @AntiSpam74 Has Been Promoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 09:56:55 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 09:56:55 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 09:57:22 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 09:57:22 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Not Set
+ 
+[ Sat Jan  7 09:57:35 2017 ]=>  Boss [306398602] used /get /get price
+ 
+[ Sat Jan  7 09:57:36 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 09:57:46 2017 ]=>  Boss [306398602] used /get /bot off
+ 
+[ Sat Jan  7 09:57:57 2017 ]=>  Boss [306398602] used /get /bot on
+ 
+[ Sat Jan  7 09:57:58 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bot Is Online
+ 
+[ Sat Jan  7 09:58:31 2017 ]=>  Boss [306398602] used /get /setprice 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 09:58:32 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Your Price Text Has Been Saved
+ 
+[ Sat Jan  7 09:58:41 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 09:58:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 10:37:54 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 10:37:54 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 10:48:09 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 10:48:09 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 10:48:16 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 10:49:23 2017 ]=>  Boss [306398602] used /get !me
+ 
+[ Sat Jan  7 10:49:23 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are My Sudo ;)
+ 
+[ Sat Jan  7 10:49:24 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 10:49:52 2017 ]=>  Boss [306398602] used /get کیف کردین ؟؟
+ 
+[ Sat Jan  7 10:50:41 2017 ]=>  Boss [306398602] used /get #settings
+ 
+[ Sat Jan  7 10:50:44 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get 😂
+ 
+[ Sat Jan  7 10:50:51 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get !me
+ 
+[ Sat Jan  7 10:50:52 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are A Member :/
+ 
+[ Sat Jan  7 10:50:53 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 10:50:59 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get 😂
+ 
+[ Sat Jan  7 10:51:05 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get 👍👍
+ 
+[ Sat Jan  7 10:51:12 2017 ]=>  Boss [306398602] used /get خوشکله ؟
+ 
+[ Sat Jan  7 10:51:18 2017 ]=>  Boss [306398602] used /get خودم الان ساختم
+ 
+[ Sat Jan  7 10:51:25 2017 ]=>  Boss [306398602] used /get تو گپ انگلیسی بزن
+ 
+[ Sat Jan  7 10:51:30 2017 ]=>  Boss [306398602] used /get فرق داره استیکرش
+ 
+[ Sat Jan  7 10:51:40 2017 ]=>  Boss [306398602] used /get !price
+ 
+[ Sat Jan  7 10:51:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 10:51:43 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get ✅
+ 
+[ Sat Jan  7 10:51:51 2017 ]=>  Boss [306398602] used /get price
+ 
+[ Sat Jan  7 10:52:05 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get price ?
+
+bezanam ?
+ 
+[ Sat Jan  7 10:52:11 2017 ]=>  Boss [306398602] used /get بزن
+ 
+[ Sat Jan  7 10:52:26 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get ok
+ 
+[ Sat Jan  7 10:52:43 2017 ]=>  Boss [306398602] used /get اینجا بزن مهندس
+ 
+[ Sat Jan  7 10:53:04 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get lol
+ 
+[ Sat Jan  7 10:53:07 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get !price
+ 
+[ Sat Jan  7 10:53:14 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get 🤔
+ 
+[ Sat Jan  7 10:53:21 2017 ]=>  Boss [306398602] used /get !price
+ 
+[ Sat Jan  7 10:53:21 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 10:53:34 2017 ]=>  Boss [306398602] used /get ill fix it
+ 
+[ Sat Jan  7 10:53:37 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get !price
+ 
+[ Sat Jan  7 10:55:22 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get #price
+ 
+[ Sat Jan  7 10:55:27 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get !price
+ 
+[ Sat Jan  7 10:55:34 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get /price
+ 
+[ Sat Jan  7 10:55:38 2017 ]=>  Director_agent_Ֆモㄗモㄝ_ℜ [91575994] used /get nope
+ 
+[ Sat Jan  7 10:55:48 2017 ]=>  Boss [306398602] used /get [audio]
+ 
+[ Sat Jan  7 10:58:29 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیارش
+ 
+[ Sat Jan  7 10:58:33 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get پلاگینو نوشتی؟
+ 
+[ Sat Jan  7 10:58:36 2017 ]=>  Boss [306398602] used /get جون
+ 
+[ Sat Jan  7 10:58:43 2017 ]=>  Boss [306398602] used /get اخر شب
+ 
+[ Sat Jan  7 11:01:53 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:01:53 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:02:00 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ی پلاگین ست نرخ میتونی گیر بیاری؟
+ 
+[ Sat Jan  7 11:02:08 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !setprice gghj
+ 
+[ Sat Jan  7 11:02:17 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !price
+ 
+[ Sat Jan  7 11:02:25 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:03:33 2017 ]=>  Boss [306398602] used /get دارم مینویسم
+ 
+[ Sat Jan  7 11:03:37 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:03:37 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:03:45 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:03:56 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !price
+ 
+[ Sat Jan  7 11:05:30 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:05:30 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:05:36 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:06:16 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:06:17 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:06:26 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:08:21 2017 ]=>  Boss [306398602] used /get /plugins *
+ 
+[ Sat Jan  7 11:08:22 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:08:28 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:08:38 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !price
+ 
+[ Sat Jan  7 11:08:39 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 11:09:04 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get باشه
+ 
+[ Sat Jan  7 11:10:20 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:10:20 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:10:27 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:12:05 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:12:05 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:12:11 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:12:11 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 11:12:18 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !price
+ 
+[ Sat Jan  7 11:12:19 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 11:12:25 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !delprice
+ 
+[ Sat Jan  7 11:12:25 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are Not Sudo Or Admin
+ 
+[ Sat Jan  7 11:12:36 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !setprice
+ 
+[ Sat Jan  7 11:12:45 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !setprice fgjk
+ 
+[ Sat Jan  7 11:12:45 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are Not Sudo Or Admin
+ 
+[ Sat Jan  7 11:12:59 2017 ]=>  Boss [306398602] used /get نوشتم
+ 
+[ Sat Jan  7 11:18:09 2017 ]=>  Boss [306398602] used /get /get price
+ 
+[ Sat Jan  7 11:18:16 2017 ]=>  Boss [306398602] used /get بیا دیوث ببرش
+ 
+[ Sat Jan  7 11:18:45 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:18:45 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:22:22 2017 ]=>  Boss [306398602] used /get #setadmin @AntiSpam74
+ 
+[ Sat Jan  7 11:22:23 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @AntiSpam74 Is Already A Moderator
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:22:35 2017 ]=>  Boss [306398602] used /get #demote
+ 
+[ Sat Jan  7 11:22:35 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @AntiSpam74 Has Been Demoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:22:46 2017 ]=>  Boss [306398602] used /get #setadmin @AntiSpam74
+ 
+[ Sat Jan  7 11:22:58 2017 ]=>  Boss [306398602] used /get #setadmin
+ 
+[ Sat Jan  7 11:22:58 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @AntiSpam74 Set As An Admin
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:23:12 2017 ]=>  Boss [306398602] used /get /help
+ 
+[ Sat Jan  7 11:23:12 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+** SuperGroup English Help Text With English Commands **
+
+⚓️!block
+Kicks a user from SuperGroup
+
+⚓️!bot [on|off]
+On or off the bot
+			
+⚓️!kick
+Kicks a user from SuperGroup	
+			
+⚓️!who
+Gives you a list of members
+			
+⚓️!ban
+Bans user from the SuperGroup
+			
+⚓️!unban
+Unbans user from the SuperGroup
+			
+⚓️!id from
+Get ID of user message is forwarded from
+			
+⚓️!promote [username|id]
+Promote a SuperGroup moderator
+			
+⚓️!demote [username|id]
+Demote a SuperGroup moderator
+						
+⚓️!setadmin [username|id]
+Promote a SuperGroup admin		
+			
+⚓️!demoteadmin [username|id]
+Demote a SuperGroup admin	
+						
+⚓️[!setname|!setphoto|!setrules|!setabout]
+Sets the chat name, photo, rules, about text
+			
+⚓️!newlink
+Generates a new group link
+			
+⚓️!link
+Retireives the group link
+			
+⚓️[!lock|!unlock] [link|flood|spam|arabic|english|member|rtl|sticker|contacts|strict|media|bots|fwd|reply|share|tag|number|badwords|cmd|username|all]
+Lock group settings
+
+⚓️!price
+Gives you the bots price for buy
+						
+⚓️!setflood [value]
+Set [value] as flood sensitivity, Max:20 and Min:2
+
+⚓️!setprice [text]
+Set price for selling your bot
+			
+⚓️!settings
+Returns chat settings
+
+⚓️[!silent] [reply on users msg|username|id ]
+Silents user
+
+⚓️[!unsilent] [reply on users msg|username|id ]
+Unsilents user
+			
+⚓️!silentlist
+Returns mutes or mute lists for chat
+
+⚓️[!whitelist] [reply on users msg|username|id ]
+Adds user/bot to whitelist
+		
+⚓️!banlist
+Returns SuperGroup ban list
+
+⚓️!rmsg [value]
+Delets groups message by value
+			
+⚓️!clean [rules|about|modlist|silentlist|deleted|whitelist]
+Cleans those you see or (deleted) kicks deleted accounts
+			
+⚓️!clear members		
+Kicks All Members
+
+⚓️!del
+Deletes a message by reply
+			
+⚓️!public [yes|no]
+Set chat visibility in pm !chats or !chatlist commands
+
+⚓️!chats
+Show list of bot groups in pv
+			
+⚓️!broadcast [text]
+Send this command in PV . the bot well send your massege to all groups and supergroups
+
+⚓️!muteall
+Mute's all
+
+⚓️!muteall h m s 
+Muteall witn timer
+h Hour(s)
+m Minute(s)
+s Second(s)
+
+⚓️!chat + [text]
+Saves a text with its first words name
+			
+⚓️!chat - [text]
+Removes the saved text
+			
+⚓️!chat rm
+Removes all saved texts
+			
+⚓️!antibot [enable / disable / allow / disallow]
+activating anti-bot for let then enter or not fo channels
+			
+** SuperGroup Commands: (For memebers and moderators!) **
+
+⚓️!tophoto
+Converts sticker to photo
+			
+⚓️!tosticker
+Converts photo to sticker
+
+⚓️!weather [location]
+Gives you news about that places weathe you want
+			
+⚓️!version
+Displays a general text about the AntiSpam Cli Bot  
+			
+⚓️!info
+Displays general info about the SuperGroup
+			
+⚓️!admins
+Returns SuperGroup admins list
+			
+⚓️!owner
+Returns group owner
+			
+⚓️!modlist
+Returns Moderators list
+
+⚓️!me
+Shows your rank
+			
+⚓️!id
+Return SuperGroup ID And user id
+			
+⚓️!kickme
+Kicks user from SuperGroup
+			
+⚓️!note [text]
+Add a note
+			
+⚓️!mynote
+Get note
+								
+⚓️!rules
+Retrieves the chat rules
+			
+⚓️!price
+Gives you the bots price for buy			
+						
+⚓️!dler [link]
+Download files from link specialy from aparat
+			
+⚓️!time
+Shows IRAN's time and date
+
+***********************************
+
+🌹Welcome To AntiSpam_TM Support🌹
+
+Channel : 《 @AntiSpam_TM 》™
+
+Creator : 《 @To_My_Amigos 》
+
+Reports : 《 @To_My_Amigos_Bot 》
+
+😊 Who Start's The Fight Get's Removed 
+So Be Friends 😊
+
+Link :
+
+https://telegram.me/joinchat/EkNFij7cWnespVgwzrlABQ
+
+************************************
+
+ 
+[ Sat Jan  7 11:23:35 2017 ]=>  ♤♡♕♪{{₰_↑Mⅰ}}♪♕♡♤ [99996988] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 11:23:36 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Welcome :)
+
+Your Specifications
+
+Name  :  ♤♡♕♪{{₰_↑Mⅰ}}♪♕♡♤
+Username : @BADB_O_Y
+ID : 99996988
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 11:23:42 2017 ]=>  Boss [306398602] used /get /dler https://github.com/AntiSpam99/AntiSpam_TM.git
+ 
+[ Sat Jan  7 11:24:00 2017 ]=>  Boss [306398602] used /get !deler https://github.com/AntiSpam99/AntiSpam_TM.git
+ 
+[ Sat Jan  7 11:24:11 2017 ]=>  Boss [306398602] used /get !dler https://github.com/AntiSpam99/AntiSpam_TM.git
+ 
+[ Sat Jan  7 11:24:48 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get اینو پاک کن همه چیشو
+ 
+[ Sat Jan  7 11:24:59 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بیا پی وی ی متن میدم بزار حالکن
+ 
+[ Sat Jan  7 11:25:09 2017 ]=>  Boss [306398602] used /get بده
+ 
+[ Sat Jan  7 11:25:15 2017 ]=>  Boss [306398602] used /get پلاگین نرخ هم نوشتم
+ 
+[ Sat Jan  7 11:25:27 2017 ]=>  Boss [306398602] used /get البته انگلیسیشه
+ 
+[ Sat Jan  7 11:25:32 2017 ]=>  Boss [306398602] used /get اینه
+ 
+[ Sat Jan  7 11:26:01 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get باشه میتونی دستورشو بزن نرخ
+ 
+[ Sat Jan  7 11:26:10 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get با دستور نرخ نرخو بده
+ 
+[ Sat Jan  7 11:26:22 2017 ]=>  Boss [306398602] used /get حوصله ندارم
+ 
+[ Sat Jan  7 11:26:26 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get باشه امشب میدم برا خودم بنویسم میدم بهت
+ 
+[ Sat Jan  7 11:26:32 2017 ]=>  Boss [306398602] used /get با price نوشتم
+ 
+[ Sat Jan  7 11:37:47 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:37:47 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:38:42 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:38:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:39:11 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 11:39:12 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Dear Member
+
+Your Specifications
+
+Name :  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ
+Username  : @XXX_MR_JOKER_XXX
+ID : 327173583
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 11:39:27 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 11:39:27 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Member Welcome :)
+
+Your Specifications
+
+Name  :  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ
+Username : @XXX_MR_JOKER_XXX
+ID : 327173583
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 11:41:49 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 11:41:49 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 11:41:56 2017 ]=>  Boss [306398602] used /get /price
+ 
+[ Sat Jan  7 11:41:56 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+
+《 AntiSpam 》™
+
+فروش تضمینی ربات ضداسپم و ضدلینک تک زبانه انگلیسی :
+
+برای گروه های زیر 1K ماهی 6000 تومان √
+
+برای گروه های 1K تا 3K ماهی 12000 تومان √
+
+برای گروه های 3K به بالا ماهی 15000 تومان √
+
+سورس AntiSpam_TM قوی و سرعت متوسط به بالا
+
+برای سفارشات به ربات مراجعه فرمایید ✔️
+
+《 @To_My_Amigos_Bot 》
+
+کانال تیم  √
+
+《 @AntiSpam_TM 》™
+ 
+[ Sat Jan  7 12:27:02 2017 ]=>  Boss [306398602] used /get سجاد
+ 
+[ Sat Jan  7 12:27:04 2017 ]=>  Boss [306398602] used /get الو
+ 
+[ Sat Jan  7 12:27:09 2017 ]=>  Boss [306398602] used /get @Sajjad_hitler
+ 
+[ Sat Jan  7 12:27:14 2017 ]=>  Boss [306398602] used /get هستی ؟؟
+ 
+[ Sat Jan  7 12:37:06 2017 ]=>  Boss [306398602] used /get !hyper https://telegram.me/joinchat/EkNFij7cWnespVgwzrlABQ
+ 
+[ Sat Jan  7 12:37:29 2017 ]=>  Boss [306398602] used /get !hyper google.com گوشگل
+ 
+[ Sat Jan  7 12:37:29 2017 ]=>  《_AntiSpam_》™ [188813923] used /get google.com
+ 
+[ Sat Jan  7 12:38:22 2017 ]=>  Boss [306398602] used /get !hyper گوگل google.com
+ 
+[ Sat Jan  7 12:38:22 2017 ]=>  《_AntiSpam_》™ [188813923] used /get گوگل
+ 
+[ Sat Jan  7 12:38:47 2017 ]=>  Boss [306398602] used /get !hyper google google.com
+ 
+[ Sat Jan  7 12:38:47 2017 ]=>  《_AntiSpam_》™ [188813923] used /get google
+ 
+[ Sat Jan  7 12:39:01 2017 ]=>  Boss [306398602] used /get hyper google.com google
+ 
+[ Sat Jan  7 12:39:10 2017 ]=>  Boss [306398602] used /get !hyper google.com google
+ 
+[ Sat Jan  7 12:39:11 2017 ]=>  《_AntiSpam_》™ [188813923] used /get google.com
+ 
+[ Sat Jan  7 12:39:27 2017 ]=>  Boss [306398602] used /get !code google.com
+ 
+[ Sat Jan  7 12:39:27 2017 ]=>  《_AntiSpam_》™ [188813923] used /get google.com
+ 
+[ Sat Jan  7 12:40:05 2017 ]=>  Boss [306398602] used /get /hyperch google .com
+ 
+[ Sat Jan  7 12:41:11 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 12:41:11 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name  :  👱miss...ZZZ👱
+Username : @ You Don't Have 
+ID : 320150410
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 12:41:17 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get سلام
+ 
+[ Sat Jan  7 12:41:30 2017 ]=>  Boss [306398602] used /get سلام
+ 
+[ Sat Jan  7 12:41:37 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get میشناسی
+ 
+[ Sat Jan  7 12:41:39 2017 ]=>  Boss [306398602] used /get اره
+ 
+[ Sat Jan  7 12:41:41 2017 ]=>  Boss [306398602] used /get یادمه
+ 
+[ Sat Jan  7 12:41:51 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get خوبی
+ 
+[ Sat Jan  7 12:41:56 2017 ]=>  Boss [306398602] used /get ممنون
+ 
+[ Sat Jan  7 12:42:02 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get میگم
+ 
+[ Sat Jan  7 12:42:19 2017 ]=>  Boss [306398602] used /get بل
+ 
+[ Sat Jan  7 12:42:27 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get ممبر فیک ی کا میخام
+ 
+[ Sat Jan  7 12:42:32 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get سراغ نداری
+ 
+[ Sat Jan  7 12:42:47 2017 ]=>  Boss [306398602] used /get خودم
+ 
+[ Sat Jan  7 12:42:54 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get چقد
+ 
+[ Sat Jan  7 12:43:21 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get 27تومن
+ 
+[ Sat Jan  7 12:43:27 2017 ]=>  Boss [306398602] used /get بله
+ 
+[ Sat Jan  7 12:44:38 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get اول لد, میکنی
+ 
+[ Sat Jan  7 12:44:40 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get اد
+ 
+[ Sat Jan  7 12:44:55 2017 ]=>  Boss [306398602] used /get ن اول پول میگیرم
+ 
+[ Sat Jan  7 12:45:01 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get کانال مال خودمه
+ 
+[ Sat Jan  7 12:45:13 2017 ]=>  Boss [306398602] used /get فرقی نداره
+ 
+[ Sat Jan  7 12:45:24 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get اول ادکن
+ 
+[ Sat Jan  7 12:45:39 2017 ]=>  Boss [306398602] used /get تازه قیمت اصلیش 30 تومنه
+ 
+[ Sat Jan  7 12:45:47 2017 ]=>  Boss [306398602] used /get من دارم با 3 هزار ضرر بت میدم
+ 
+[ Sat Jan  7 12:45:56 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get واسه من😊
+ 
+[ Sat Jan  7 12:45:57 2017 ]=>  نفس [238395707] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 12:45:57 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name  :  نفس
+Username : @Rozabmm
+ID : 238395707
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 12:46:11 2017 ]=>  Boss [306398602] used /get منو تو نداریم شرمنده
+ 
+[ Sat Jan  7 12:46:11 2017 ]=>  نفس [238395707] used /get 😂😂😂😂😂
+ 
+[ Sat Jan  7 12:46:40 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get خب, بیا صلاح بریم
+ 
+[ Sat Jan  7 12:47:30 2017 ]=>  نفس [238395707] used /get 😐😐😐
+ 
+[ Sat Jan  7 12:47:41 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get توچرا اومدی
+ 
+[ Sat Jan  7 12:47:44 2017 ]=>  Boss [306398602] used /get بله ؟
+ 
+[ Sat Jan  7 12:47:57 2017 ]=>  نفس [238395707] used /get اومدم ربط بدزدم😂
+ 
+[ Sat Jan  7 12:48:12 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get میگم بیا ن سیخ بسوزه ن کباب صلاح هم بریم
+ 
+[ Sat Jan  7 12:48:31 2017 ]=>  نفس [238395707] used /get واس کی میخای
+ 
+[ Sat Jan  7 12:48:43 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get فضولی, بدوبیرون
+ 
+[ Sat Jan  7 12:48:51 2017 ]=>  Boss [306398602] used /get الان تصمیمتون چیه ؟
+ 
+[ Sat Jan  7 12:49:11 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get تواد, کنی, من درجا میریزم
+ 
+[ Sat Jan  7 12:49:23 2017 ]=>  نفس [238395707] used /get دروغ میگه😂😂
+ 
+[ Sat Jan  7 12:49:32 2017 ]=>  Boss [306398602] used /get /kick
+ 
+[ Sat Jan  7 12:49:45 2017 ]=>  Boss [306398602] used /get /chats
+ 
+[ Sat Jan  7 12:49:45 2017 ]=>  《_AntiSpam_》™ [188813923] used /get List of your bot Groups:
+
+ ️ Support 《 AntiSpam 》™ (ID: 1054628471)
+
+ 
+ 
+[ Sat Jan  7 12:49:46 2017 ]=>  نفس [238395707] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 12:49:46 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Dear
+نفس
+Username :
+@Rozabmm
+ID :
+238395707
+
+You Are Not In Our Group Anymore
+Good Luck.
+
+Channel : @AntiSpam_TM
+ 
+[ Sat Jan  7 12:49:55 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get بایدمطمئن بشم یانه
+ 
+[ Sat Jan  7 12:50:12 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get با بشین نفس, شوخی, نیست دارم جدی, حرف, میزنم
+ 
+[ Sat Jan  7 12:50:18 2017 ]=>  Boss [306398602] used /get مطمئن
+ 
+[ Sat Jan  7 12:50:22 2017 ]=>  Boss [306398602] used /get باش
+ 
+[ Sat Jan  7 12:50:24 2017 ]=>  Boss [306398602] used /get میریزم
+ 
+[ Sat Jan  7 12:50:37 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get خب توادکن مطمئن باش, میریزم
+ 
+[ Sat Jan  7 12:50:41 2017 ]=>  Boss [306398602] used /get ولی باید اول هزینشو پرداخت کنی
+ 
+[ Sat Jan  7 12:50:41 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get بخدا
+ 
+[ Sat Jan  7 12:51:42 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get بیا, یکاری, کنیم
+ 
+[ Sat Jan  7 12:51:53 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get الو
+ 
+[ Sat Jan  7 12:51:59 2017 ]=>  Boss [306398602] used /get بفرما
+ 
+[ Sat Jan  7 12:52:20 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get نصفیشومیریزم ادکردی, کامل بقیشومیریزم
+ 
+[ Sat Jan  7 12:54:01 2017 ]=>  Boss [306398602] used /get ببینین خانم حوصله دروغ ندارم چون از کسی نمیترسم یا محتاج پول نیستم 
+شیله پیله هم تو کارم نیس
+هرچقد میخواین ممبر براتون میریزم ولی باس قبلش هزینه شو بدین
+ 
+[ Sat Jan  7 12:55:18 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get خب, منم اومدم ک کارم راه بیفته وگرنه مرض, ندارم مزاحمت ایجاد, کنم  میگم نصف, میریزم تواد کردی مطمئن شدم بقیشومیریزم
+ 
+[ Sat Jan  7 12:55:51 2017 ]=>  ♪‌حسـ❢ـೠــین🎤ڪلانـೄـتــر♪ [310542625] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 12:55:51 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Welcome :)
+
+Your Specifications
+
+Name  :  ♪‌حسـ❢ـೠــین🎤ڪلانـೄـتــر♪
+Username : @hossien_kalantar
+ID : 310542625
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 12:56:03 2017 ]=>  Boss [306398602] used /get مطمئن باشین من 1k بیشتر هم میریزم
+ 
+[ Sat Jan  7 12:58:39 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get قبول من فردا 25بریزم
+ 
+[ Sat Jan  7 13:00:07 2017 ]=>  Boss [306398602] used /get شما بریزین ب حساب من تا 24 همشو تحویل میدم
+ 
+[ Sat Jan  7 13:00:19 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get بعد, پستام سین میخورم
+ 
+[ Sat Jan  7 13:00:48 2017 ]=>  Boss [306398602] used /get ممبر فیک هر هزار تا فوقش 100 تا سین داشته باشن اونم شانیسه
+ 
+[ Sat Jan  7 13:00:55 2017 ]=>  Boss [306398602] used /get فیک ینی تقلبی
+ 
+[ Sat Jan  7 13:01:35 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ؟
+ 
+[ Sat Jan  7 13:01:48 2017 ]=>  Boss [306398602] used /get پی وی بت گفتم
+ 
+[ Sat Jan  7 13:01:52 2017 ]=>  Boss [306398602] used /get کارم همون بود
+ 
+[ Sat Jan  7 13:02:22 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get ریزش, ندارن
+ 
+[ Sat Jan  7 13:02:26 2017 ]=>  Boss [306398602] used /get سجاد فک کنم ربات بتونه رو هاست رایگان ران بشه
+ 
+[ Sat Jan  7 13:02:34 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get اول پول بگیر بعد ادکن
+ 
+[ Sat Jan  7 13:02:40 2017 ]=>  Boss [306398602] used /get منظورتون لفت هس ؟
+ 
+[ Sat Jan  7 13:02:47 2017 ]=>  Boss [306398602] used /get همینکارو میکنم
+ 
+[ Sat Jan  7 13:03:18 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get اره
+ 
+[ Sat Jan  7 13:04:01 2017 ]=>  Boss [306398602] used /get داره ولی کم رو به خیلی کم من گفتم بیشتر از 1k میزنم ک بتونه لفت هارو جبران کنه
+ 
+[ Sat Jan  7 13:04:02 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get میشع ولی افی داره
+ 
+[ Sat Jan  7 13:04:22 2017 ]=>  Boss [306398602] used /get همین پیام رسانی ک میگم
+ 
+[ Sat Jan  7 13:04:27 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get اره اف میشه
+ 
+[ Sat Jan  7 13:04:35 2017 ]=>  Boss [306398602] used /get اونم اموزشش میده 10
+ 
+[ Sat Jan  7 13:04:44 2017 ]=>  Boss [306398602] used /get درضمن تو یک سایت ثبت نام کردم
+ 
+[ Sat Jan  7 13:04:45 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕هاست مگه چقد هست
+ 
+[ Sat Jan  7 13:04:55 2017 ]=>  Boss [306398602] used /get هاست خارج
+ 
+[ Sat Jan  7 13:05:00 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get چند؟
+ 
+[ Sat Jan  7 13:05:09 2017 ]=>  Boss [306398602] used /get دادم بهش
+ 
+[ Sat Jan  7 13:05:10 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕
+ 
+[ Sat Jan  7 13:05:14 2017 ]=>  Boss [306398602] used /get نا محدود
+ 
+[ Sat Jan  7 13:05:17 2017 ]=>  Boss [306398602] used /get خارجیه
+ 
+[ Sat Jan  7 13:05:19 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get زیادنداشته باشه
+ 
+[ Sat Jan  7 13:05:21 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get خوبه پس
+ 
+[ Sat Jan  7 13:05:26 2017 ]=>  Boss [306398602] used /get هر دامنه ای بخوای میده
+ 
+[ Sat Jan  7 13:05:30 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نگا سورسو بخریم
+ 
+[ Sat Jan  7 13:05:36 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get هم تو پیام رسان بساز
+ 
+[ Sat Jan  7 13:05:40 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get هم بمن بگو من خودم
+ 
+[ Sat Jan  7 13:05:41 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بسازم
+ 
+[ Sat Jan  7 13:05:43 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕
+ 
+[ Sat Jan  7 13:05:45 2017 ]=>  Boss [306398602] used /get جبران میشه خیاالتون تخت
+ 
+[ Sat Jan  7 13:05:56 2017 ]=>  Boss [306398602] used /get 😂😂😂
+ 
+[ Sat Jan  7 13:06:04 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get شماره حساب
+ 
+[ Sat Jan  7 13:06:13 2017 ]=>  Boss [306398602] used /get تشریف بیارین پی وی
+ 
+[ Sat Jan  7 13:06:15 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ؟
+ 
+[ Sat Jan  7 13:06:16 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get چیه
+ 
+[ Sat Jan  7 13:06:18 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕
+ 
+[ Sat Jan  7 13:06:23 2017 ]=>  Boss [306398602] used /get میترسی نشونت ندم ؟؟
+ 
+[ Sat Jan  7 13:06:27 2017 ]=>  Boss [306398602] used /get خنگ
+ 
+[ Sat Jan  7 13:06:31 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get من ریپم
+ 
+[ Sat Jan  7 13:06:42 2017 ]=>  Boss [306398602] used /get من میام .. اجازه هس ؟
+ 
+[ Sat Jan  7 13:06:44 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕میگم یاد بده خودمم بسازم
+ 
+[ Sat Jan  7 13:06:47 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نگفتم میترسم
+ 
+[ Sat Jan  7 13:06:50 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get بفرما
+ 
+[ Sat Jan  7 13:07:00 2017 ]=>  Boss [306398602] used /get از یاسین بدتری توو
+ 
+[ Sat Jan  7 13:07:09 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نکس
+ 
+[ Sat Jan  7 13:07:10 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕
+ 
+[ Sat Jan  7 13:07:14 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get دیوث
+ 
+[ Sat Jan  7 13:07:15 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کونی
+ 
+[ Sat Jan  7 13:07:16 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get خر
+ 
+[ Sat Jan  7 13:07:29 2017 ]=>  Boss [306398602] used /get 😂😐
+ 
+[ Sat Jan  7 13:08:28 2017 ]=>  Boss [306398602] used /get /lock badwords
+ 
+[ Sat Jan  7 13:08:28 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Bad Words Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 13:08:40 2017 ]=>  Boss [306398602] used /get !!tgservice chat_add_user
+ 
+[ Sat Jan  7 13:08:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Welcome :)
+
+Your Specifications
+
+Name :  ŠĀjjÃĐ💀HįŢłęŘ
+Username  : @Sajjad_hitler
+ID : 219745562
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Your Reagents Name : Boss
+Your Reagents Username : @To_My_Amigos
+Your Reagents ID : 306398602
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 13:09:39 2017 ]=>  Boss [306398602] used /get @Sajjad_hitler جناب یاسین 2 خوش امدی
+ 
+[ Sat Jan  7 14:09:09 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 14:09:10 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are My Sudo ;)
+ 
+[ Sat Jan  7 14:27:41 2017 ]=>  Boss [306398602] used /get #lock sticker
+ 
+[ Sat Jan  7 14:27:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Sticker Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:28:08 2017 ]=>  Boss [306398602] used /get #unlock sticker
+ 
+[ Sat Jan  7 14:28:08 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Sticker Posting Has Been UnLocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:28:20 2017 ]=>  Boss [306398602] used /get /lock gifs
+ 
+[ Sat Jan  7 14:28:20 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Gifs Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:28:35 2017 ]=>  Boss [306398602] used /get #unlock gifs
+ 
+[ Sat Jan  7 14:28:35 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Gifs Posting Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:28:51 2017 ]=>  Boss [306398602] used /get /lock photo
+ 
+[ Sat Jan  7 14:28:51 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Photo Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:29:17 2017 ]=>  Boss [306398602] used /get #unlock photo
+ 
+[ Sat Jan  7 14:29:17 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Photo Post Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:29:36 2017 ]=>  Boss [306398602] used /get #lock audio
+ 
+[ Sat Jan  7 14:29:37 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Audio Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:29:52 2017 ]=>  Boss [306398602] used /get #unlock audio
+ 
+[ Sat Jan  7 14:29:53 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Audio Post Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:30:15 2017 ]=>  Boss [306398602] used /get #muteall
+ 
+[ Sat Jan  7 14:30:15 2017 ]=>  《_AntiSpam_》™ [188813923] used /get ⏺ Mute All Has Been Enabled
+⏺ Created By @To_My_Amigos
+⏺ Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:30:19 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get ا
+ 
+[ Sat Jan  7 14:30:22 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😁😕😜
+ 
+[ Sat Jan  7 14:30:29 2017 ]=>  Boss [306398602] used /get #unmuteall
+ 
+[ Sat Jan  7 14:30:29 2017 ]=>  《_AntiSpam_》™ [188813923] used /get ⏺ Mute All Has Been Disabled
+⏺ Created By @To_My_Amigos
+⏺ Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:30:32 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😝😕😳
+ 
+[ Sat Jan  7 14:30:41 2017 ]=>  Boss [306398602] used /get /lock emoji
+ 
+[ Sat Jan  7 14:30:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Emoji Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:30:44 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😕
+ 
+[ Sat Jan  7 14:30:44 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Sending Emoji Is Forbidden
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:30:48 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😑😎🍭
+ 
+[ Sat Jan  7 14:30:52 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 🍭
+ 
+[ Sat Jan  7 14:31:05 2017 ]=>  Boss [306398602] used /get #unlock emoji
+ 
+[ Sat Jan  7 14:31:05 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Emoji Has Been UnLocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:31:12 2017 ]=>  Boss [306398602] used /get /lock english
+ 
+[ Sat Jan  7 14:31:12 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 English Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:31:15 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😕🙈😃
+ 
+[ Sat Jan  7 14:31:20 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get Hi
+ 
+[ Sat Jan  7 14:31:27 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get Heksk
+ 
+[ Sat Jan  7 14:31:40 2017 ]=>  Boss [306398602] used /get #unlock english
+ 
+[ Sat Jan  7 14:31:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 English Has Been UnLocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:31:45 2017 ]=>  Boss [306398602] used /get #settings
+ 
+[ Sat Jan  7 14:31:45 2017 ]=>  《_AntiSpam_》™ [188813923] used /get SuperGroup Settings For [Support_《_AntiSpam_》™]:
+
+[🔐] Default Locks :
+Lock Link 👉 yes
+Lock Flood 👉 yes
+Lock Spam 👉 yes
+Lock Arabic/Persian 👉 no
+Lock English 👉 no
+Lock Member 👉 no
+Lock RTL 👉 no
+Lock Tgservice  👉 no
+Lock Sticker 👉 no
+
+[🔏] New Locks :
+Lock Forward 👉 no
+Lock Reply 👉 no
+Lock Bots 👉 no
+Lock Share 👉 no
+Lock Tag 👉 no
+Lock Username 👉 no
+Lock Number 👉 no
+Lock Emoji 👉 no
+Lock Poker 👉 no
+Lock Media 👉 no
+Lock Documents 👉 no
+Lock Audio 👉 no
+Lock Photo 👉 no
+Lock Video 👉 no
+Lock Gifs 👉 no
+Lock Inline 👉 no
+Lock Cmd 👉 no
+Lock Text 👉 no
+Lock Badwords 👉 yes
+Lock All 👉 no
+
+[🔧] OTHER:
+[👥] Public 👉 no
+[📛] Strict Settings 👉 no
+[👀]Flood Sensitivity 👉 2|20
+
+[👥] About SuperGroup :
+Name : Support_《_AntiSpam_》™
+ID : 1054628471
+
+[😶] Muted Users for: [ID: 1054628471 ]:
+
+
+ 
+[ Sat Jan  7 14:31:50 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get chj
+ 
+[ Sat Jan  7 14:31:54 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get کس
+ 
+[ Sat Jan  7 14:32:00 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get کیری
+ 
+[ Sat Jan  7 14:32:07 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get کونی‌
+ 
+[ Sat Jan  7 14:32:09 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get ننه سگ
+ 
+[ Sat Jan  7 14:32:11 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get کشکش
+ 
+[ Sat Jan  7 14:32:24 2017 ]=>  Boss [306398602] used /get /lock cmd
+ 
+[ Sat Jan  7 14:32:24 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Cmd Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:32:40 2017 ]=>  Boss [306398602] used /get /unlock cmd
+ 
+[ Sat Jan  7 14:32:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Cmd Posting Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:32:49 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😐
+ 
+[ Sat Jan  7 14:32:57 2017 ]=>  Boss [306398602] used /get /lock poker
+ 
+[ Sat Jan  7 14:32:58 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Poker Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:33:08 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get خخخخ 😐
+ 
+[ Sat Jan  7 14:33:09 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😐
+ 
+[ Sat Jan  7 14:33:20 2017 ]=>  Boss [306398602] used /get /unlock poker
+ 
+[ Sat Jan  7 14:33:20 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Poker Posting Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:33:27 2017 ]=>  Boss [306398602] used /get /lock arabic
+ 
+[ Sat Jan  7 14:33:27 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Arabic/Persian Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:33:31 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 😜
+ 
+[ Sat Jan  7 14:33:34 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 🙈😃
+ 
+[ Sat Jan  7 14:33:35 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 🙂😚😡
+ 
+[ Sat Jan  7 14:33:40 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get خخ
+ 
+[ Sat Jan  7 14:33:48 2017 ]=>  Boss [306398602] used /get /unlock arabic
+ 
+[ Sat Jan  7 14:33:48 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Arabic/Persian Posting Has Been UnLocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:34:04 2017 ]=>  Boss [306398602] used /get /lock text
+ 
+[ Sat Jan  7 14:34:04 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Text Posting Has Been Locked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔐
+ 
+[ Sat Jan  7 14:34:06 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get لاس
+ 
+[ Sat Jan  7 14:34:10 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get hsja
+ 
+[ Sat Jan  7 14:34:23 2017 ]=>  Boss [306398602] used /get /unlock text
+ 
+[ Sat Jan  7 14:34:23 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 🔐 Text Posting Has Been Unlocked
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM 🔓
+ 
+[ Sat Jan  7 14:34:29 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get https://t.me/joinchat/AAAAAD7cWnf-BKb3zrlABQ
+ 
+[ Sat Jan  7 14:34:47 2017 ]=>  Boss [306398602] used /get /lock tag
+ 
+[ Sat Jan  7 14:34:52 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get #AntiSpam66
+ 
+[ Sat Jan  7 14:34:52 2017 ]=>  《_AntiSpam_》™ [188813923] used /get This Is An Original Bot And Based On (AntiSpam , Version 4 Final).
+
+Copyright All Right Reserved And You Must Respect All Laws.
+
+Clone : https://bitbucket.org/AntiSpam99/AntiSpam_TM3.git
+
+Note : This Is One Of My Private Repositoies
+
+For Buying It You Should Contact Me 
+
+جهت سفارش ساخت یا خرید ربات و نصب بر روی سرور با آیدی یا شماره زیر در ارتباط باشید
+
+Creator : @To_My_Amigos
+
+Phone Number : +989213985504
+
+Our Channel : @AntiSpam_TM
+
+Join Us .
+ 
+[ Sat Jan  7 14:35:07 2017 ]=>  Boss [306398602] used /get /unlock tag
+ 
+[ Sat Jan  7 14:35:14 2017 ]=>  Boss [306398602] used /get /lock username
+ 
+[ Sat Jan  7 14:35:20 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get @To_My_Amigos
+ 
+[ Sat Jan  7 14:35:24 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get 0
+ 
+[ Sat Jan  7 14:36:05 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get Fshjaja
+
+Gshja
+
+@To_My_Amigos 
+
+
+Vzbs
+ 
+[ Sat Jan  7 14:37:23 2017 ]=>  Boss [306398602] used /get /unlock username
+ 
+[ Sat Jan  7 14:37:43 2017 ]=>  👱miss...ZZZ👱 [320150410] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 14:37:43 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  👱miss...ZZZ👱
+Username  : @ You Don't Have
+ID : 320150410
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 14:37:48 2017 ]=>  Boss [306398602] used /get /lock strict
+ 
+[ Sat Jan  7 14:37:54 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get https://t.me/joinchat/AAAAAD7cWnf-BKb3zrlABQ
+ 
+[ Sat Jan  7 14:38:04 2017 ]=>  Boss [306398602] used /get !!tgservice chat_add_user
+ 
+[ Sat Jan  7 14:38:05 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name :  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ
+Username  : @XXX_MR_JOKER_XXX
+ID : 327173583
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Your Reagents Name : Boss
+Your Reagents Username : @To_My_Amigos
+Your Reagents ID : 306398602
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 14:38:46 2017 ]=>  Boss [306398602] used /get #silent @XXX_MR_JOKER_XXX
+ 
+[ Sat Jan  7 14:38:46 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [@XXX_MR_JOKER_XXX] Added To The Silented User List
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:38:53 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get خ
+ 
+[ Sat Jan  7 14:39:00 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get للت
+ 
+[ Sat Jan  7 14:39:15 2017 ]=>  Boss [306398602] used /get #unsilent @XXX_MR_JOKER_XXX
+ 
+[ Sat Jan  7 14:39:15 2017 ]=>  《_AntiSpam_》™ [188813923] used /get  [327173583] Added To Silented User List
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:39:22 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get ف
+ 
+[ Sat Jan  7 14:39:33 2017 ]=>  Boss [306398602] used /get #unsilent
+ 
+[ Sat Jan  7 14:39:33 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [327173583] Removed From The Silented User List
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:40:05 2017 ]=>  Boss [306398602] used /get #rmsg 100
+ 
+[ Sat Jan  7 14:42:59 2017 ]=>  Boss [306398602] used /get #settings
+ 
+[ Sat Jan  7 14:43:16 2017 ]=>  Boss [306398602] used /get /unlock links
+ 
+[ Sat Jan  7 14:43:31 2017 ]=>  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ [327173583] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 14:43:31 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  ♡ًٍٍ♧ًٍڪًٍ↯ـًٍیًٍـ⇜ـًٍاًٍ_جٌٍُـًٍـًٍ↯ًٍـًٍۅًٍڪًٍـًٍ⇜ًًٍـًٍࢪًٍمًٍ♤ًٍ♢ًٍُ
+Username  : @XXX_MR_JOKER_XXX
+ID : 327173583
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 14:47:16 2017 ]=>  Boss [306398602] used /get /sinlent 123456789
+ 
+[ Sat Jan  7 14:47:27 2017 ]=>  Boss [306398602] used /get /silent 123456789
+ 
+[ Sat Jan  7 14:47:27 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [123456789] Added To The Silented User List
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:47:38 2017 ]=>  Boss [306398602] used /get /unsilent 123456789
+ 
+[ Sat Jan  7 14:47:38 2017 ]=>  Boss [306398602] Removed [123456789] From The Silented Users List
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:47:38 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [123456789] Removed From The Silented Users List
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:47:48 2017 ]=>  Boss [306398602] used /get /res 123456789
+ 
+[ Sat Jan  7 14:47:57 2017 ]=>  Boss [306398602] used /get /id 123456789
+ 
+[ Sat Jan  7 14:47:57 2017 ]=>  Boss [306398602] requested SuperGroup ID
+ 
+[ Sat Jan  7 14:47:57 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name :
+》➣ Boss
+Username :
+》➣ @To_My_Amigos
+Your ID :
+》➣ 306398602
+Your Link :
+》➣ Telegram.Me/To_My_Amigos
+SuperGroup Name :
+》➣ Support 《 AntiSpam 》™
+SuperGroup ID :
+》➣ 1054628471
+ 
+[ Sat Jan  7 14:49:00 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 14:49:01 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are My Sudo ;)
+ 
+[ Sat Jan  7 14:49:01 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 14:53:55 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 14:54:11 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get 😕
+ 
+[ Sat Jan  7 14:54:17 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get /me
+ 
+[ Sat Jan  7 14:54:28 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بده😕پلاگینشو
+ 
+[ Sat Jan  7 14:54:41 2017 ]=>  Boss [306398602] used /get پلاگین نیس
+ 
+[ Sat Jan  7 14:54:47 2017 ]=>  Boss [306398602] used /get سورس خودمه درست کردم براش
+ 
+[ Sat Jan  7 14:55:36 2017 ]=>  Boss [306398602] used /get #plugins *
+ 
+[ Sat Jan  7 14:55:36 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:55:42 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 14:55:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are My Sudo ;)
+ 
+[ Sat Jan  7 14:55:55 2017 ]=>  Boss [306398602] used /get عشقمی
+ 
+[ Sat Jan  7 14:55:59 2017 ]=>  Boss [306398602] used /get /info
+ 
+[ Sat Jan  7 14:55:59 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name : Boss
+First Name : Boss
+Last Name : -----
+
+Phone Number : ****0921398
+State : Islamic Republic Of Iran
+Sim Type : RIGHTEll
+Username : @To_My_Amigos
+ID : 306398602
+
+Rank : -----
+Station : Sudo ⭐⭐⭐⭐⭐
+
+Connected Device : PC
+Messages : 2998
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+ 
+[ Sat Jan  7 14:55:59 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get او
+ 
+[ Sat Jan  7 14:56:15 2017 ]=>  Boss [306398602] used /get خشکله استیکرش ؟
+ 
+[ Sat Jan  7 14:56:23 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get اره
+ 
+[ Sat Jan  7 14:56:28 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get infome
+ 
+[ Sat Jan  7 14:56:28 2017 ]=>  Boss [306398602] used /get #promote
+ 
+[ Sat Jan  7 14:56:28 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @CYBER_TIGER6 Has Been Promoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:56:37 2017 ]=>  Boss [306398602] used /get بزن /me
+ 
+[ Sat Jan  7 14:56:42 2017 ]=>  Boss [306398602] used /get #promote
+ 
+[ Sat Jan  7 14:56:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @Sajjad_hitler Has Been Promoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:56:47 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get !me
+ 
+[ Sat Jan  7 14:56:47 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are An Admin :)
+ 
+[ Sat Jan  7 14:56:52 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ترا زدم بالا حس چیزی تی
+ 
+[ Sat Jan  7 14:56:52 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نی
+ 
+[ Sat Jan  7 14:57:01 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get او
+ 
+[ Sat Jan  7 14:57:07 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get جی قشنگه
+ 
+[ Sat Jan  7 14:57:31 2017 ]=>  Boss [306398602] used /get #demote
+ 
+[ Sat Jan  7 14:57:31 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @CYBER_TIGER6 Has Been Demoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:57:37 2017 ]=>  Boss [306398602] used /get #setowner
+ 
+[ Sat Jan  7 14:57:37 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @CYBER_TIGER6 [ 103190020 ] Added As Owner
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:57:50 2017 ]=>  Boss [306398602] used /get الان /me بزن
+ 
+[ Sat Jan  7 14:58:00 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get !me
+ 
+[ Sat Jan  7 14:58:00 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are An Owner :)
+ 
+[ Sat Jan  7 14:58:16 2017 ]=>  Boss [306398602] used /get خخخخخخ
+ 
+[ Sat Jan  7 14:58:24 2017 ]=>  Boss [306398602] used /get #setowner
+ 
+[ Sat Jan  7 14:58:25 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @To_My_Amigos [ 306398602 ] Added As Owner
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 14:58:29 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get قشنگه ولی
+ 
+[ Sat Jan  7 14:58:37 2017 ]=>  Boss [306398602] used /get خب ؟
+ 
+[ Sat Jan  7 14:58:59 2017 ]=>  Boss [306398602] used /get ولی چی ؟
+ 
+[ Sat Jan  7 14:59:16 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get ولی هیچی دارم میگم قشنگه
+ 
+[ Sat Jan  7 14:59:22 2017 ]=>  ♪‌حسـ❢ـೠــین🎤ڪلانـೄـتــر♪ [310542625] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 14:59:23 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  ♪‌حسـ❢ـೠــین🎤ڪلانـೄـتــر♪
+Username  : @hossien_kalantar
+ID : 310542625
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 14:59:34 2017 ]=>  Boss [306398602] used /get اگ زشتی داره بگو تا قشنگ کنم
+ 
+[ Sat Jan  7 14:59:46 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get نه دادا عالیه
+ 
+[ Sat Jan  7 14:59:56 2017 ]=>  Boss [306398602] used /get فداو
+ 
+[ Sat Jan  7 15:00:05 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیارش
+ 
+[ Sat Jan  7 15:00:13 2017 ]=>  Boss [306398602] used /get جونز
+ 
+[ Sat Jan  7 15:00:20 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get پرداخت 1000 تومان به سجاد فلاحی
+ 
+[ Sat Jan  7 15:00:33 2017 ]=>  Boss [306398602] used /get #modlist
+ 
+[ Sat Jan  7 15:00:33 2017 ]=>  《_AntiSpam_》™ [188813923] used /get 
+List Of Moderators For Support 《 AntiSpam 》™:
+1 - (at)AntiSpam74 [188813923] 
+2 - (at)Sajjad_hitler [219745562] 
+
+ 
+[ Sat Jan  7 15:00:47 2017 ]=>  Boss [306398602] used /get چی بود ؟؟
+ 
+[ Sat Jan  7 15:00:47 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get هیچی
+ 
+[ Sat Jan  7 15:00:48 2017 ]=>  Boss [306398602] used /get خخخ
+ 
+[ Sat Jan  7 15:01:08 2017 ]=>  Boss [306398602] used /get دیدم
+ 
+[ Sat Jan  7 15:02:17 2017 ]=>  Boss [306398602] used /get ناموسا ی چیزی
+ 
+[ Sat Jan  7 15:02:48 2017 ]=>  Boss [306398602] used /get سجاد مهدی سعید محمد
+ 
+[ Sat Jan  7 15:02:52 2017 ]=>  Boss [306398602] used /get این 4 نفر
+ 
+[ Sat Jan  7 15:03:01 2017 ]=>  Boss [306398602] used /get ک 3 نفرشون تو گپن
+ 
+[ Sat Jan  7 15:03:10 2017 ]=>  Boss [306398602] used /get یادش بخیر
+ 
+[ Sat Jan  7 15:03:31 2017 ]=>  Boss [306398602] used /get الان برا خودشون ربات ساز شدن
+ 
+[ Sat Jan  7 15:03:54 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get پول زور
+ 
+[ Sat Jan  7 15:03:59 2017 ]=>  Boss [306398602] used /get باش
+ 
+[ Sat Jan  7 15:04:13 2017 ]=>  Boss [306398602] used /get واسا پرداخت کنم
+ 
+[ Sat Jan  7 15:04:31 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get منتظرم
+ 
+[ Sat Jan  7 15:05:35 2017 ]=>  Boss [306398602] used /get بیا
+ 
+[ Sat Jan  7 15:06:21 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کسکش
+ 
+[ Sat Jan  7 15:06:32 2017 ]=>  Boss [306398602] used /get بچه خوشکل
+ 
+[ Sat Jan  7 15:06:49 2017 ]=>  Boss [306398602] used /get سورس رو بخر
+ 
+[ Sat Jan  7 15:06:52 2017 ]=>  Boss [306398602] used /get زود
+ 
+[ Sat Jan  7 15:06:57 2017 ]=>  Boss [306398602] used /get تا ی حرکتی بزنیم
+ 
+[ Sat Jan  7 15:07:20 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نکس من برم سورستو کلا ایدی هارو پاک کنم
+ 
+[ Sat Jan  7 15:07:30 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بعدش کلون کنم دوباره
+ 
+[ Sat Jan  7 15:07:33 2017 ]=>  Boss [306398602] used /get یا 6 انتقال بده رو کارتم تا من بخرم
+ 
+[ Sat Jan  7 15:07:36 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بعد تغییراتو بدم
+ 
+[ Sat Jan  7 15:07:42 2017 ]=>  Boss [306398602] used /get امشب درست کنم بیکارم
+ 
+[ Sat Jan  7 15:08:03 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get با پی پینگ بفرستن
+ 
+[ Sat Jan  7 15:08:04 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get م
+ 
+[ Sat Jan  7 15:08:09 2017 ]=>  Boss [306398602] used /get زرین پال زدم منتظرم مدارکم تکمیل شه
+ 
+[ Sat Jan  7 15:08:15 2017 ]=>  Boss [306398602] used /get تایید کنن
+ 
+[ Sat Jan  7 15:08:19 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get پی پینگ بهتره
+ 
+[ Sat Jan  7 15:08:27 2017 ]=>  Boss [306398602] used /get کد شبا نداشتم
+ 
+[ Sat Jan  7 15:08:34 2017 ]=>  Boss [306398602] used /get شماره حساب بلد نبودم
+ 
+[ Sat Jan  7 15:08:35 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ۱۰ دقیقه ایی تایید میشه
+ 
+[ Sat Jan  7 15:08:49 2017 ]=>  Boss [306398602] used /get من شماره کارت بلد بودم
+ 
+[ Sat Jan  7 15:08:50 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get منم نداشتم رفتم  گرفتم
+ 
+[ Sat Jan  7 15:08:59 2017 ]=>  Boss [306398602] used /get من حوصله نداشتم
+ 
+[ Sat Jan  7 15:09:14 2017 ]=>  Boss [306398602] used /get من برم بیرون برگردم
+ 
+[ Sat Jan  7 15:09:22 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get اخر شب میفرستم
+ 
+[ Sat Jan  7 15:09:25 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get کیا دادا
+ 
+[ Sat Jan  7 15:09:27 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get میخام یه رباتی باشه خودش از کانالای مختلف مطلب بگیره و بفرسه کانالم لینکشم خودش تغییر بده
+ 
+[ Sat Jan  7 15:09:35 2017 ]=>  🇸 🇪 🇨 🇺 🇷 🇮 🇹 🇾 ‌ [103190020] used /get همچین رباتی داریم
+ 
+[ Sat Jan  7 15:09:36 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get فقط بگو ی ربات بده
+ 
+[ Sat Jan  7 15:09:38 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get تست کنم
+ 
+[ Sat Jan  7 15:09:39 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ببینم
+ 
+[ Sat Jan  7 15:09:51 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ن
+ 
+[ Sat Jan  7 15:22:05 2017 ]=>  MOHAMMAD [124724015] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 15:22:06 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name  :  MOHAMMAD
+Username : @TANHAING
+ID : 124724015
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 15:22:22 2017 ]=>  MOHAMMAD [124724015] used /get سلام
+ 
+[ Sat Jan  7 15:23:19 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیار‌ش
+ 
+[ Sat Jan  7 15:23:24 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get پلاگین ولکامو نوشتی؟
+ 
+[ Sat Jan  7 15:23:46 2017 ]=>  MOHAMMAD [124724015] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 15:23:47 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  MOHAMMAD
+Username  : @TANHAING
+ID : 124724015
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 15:41:55 2017 ]=>  Boss [306398602] used /get زیادی پیشرفته س این
+ 
+[ Sat Jan  7 15:42:06 2017 ]=>  Boss [306398602] used /get فک نکنم باشه
+ 
+[ Sat Jan  7 15:42:11 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get .
+ 
+[ Sat Jan  7 15:42:16 2017 ]=>  Boss [306398602] used /get ن
+ 
+[ Sat Jan  7 15:42:42 2017 ]=>  Boss [306398602] used /get !gap
+ 
+[ Sat Jan  7 15:42:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Info For SuperGroup: [Support 《 AntiSpam 》™]
+
+Admin Count: 2
+User Count: 14
+Kicked User Count: 2
+ID: 1054628471
+
+ 
+[ Sat Jan  7 15:43:07 2017 ]=>  Boss [306398602] used /get !invite khan926
+ 
+[ Sat Jan  7 15:43:41 2017 ]=>  Boss [306398602] used /get !kick @khan926
+ 
+[ Sat Jan  7 15:43:45 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get !invite khan926
+ 
+[ Sat Jan  7 15:43:45 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Only Admins Can Invite
+ 
+[ Sat Jan  7 15:46:13 2017 ]=>  Boss [306398602] used /get !invite HERSH94
+ 
+[ Sat Jan  7 15:46:41 2017 ]=>  Boss [306398602] used /get !invite @HERSH94
+ 
+[ Sat Jan  7 15:47:03 2017 ]=>  Boss [306398602] used /get !res @hersh94
+ 
+[ Sat Jan  7 15:47:23 2017 ]=>  Boss [306398602] used /get !invite 289798411
+ 
+[ Sat Jan  7 15:49:43 2017 ]=>  Boss [306398602] used /get !bc 289798411 Hi Dear We Are A New AntiSpam Telegram Bots
+
+You Can Use :
+
+#tophoto For Change Sticker To Photo 
+
+#tosticker For Change Photo To Sticker
+ 
+[ Sat Jan  7 15:51:26 2017 ]=>  《_AntiSpam_》™ [188813923] used /get hi
+ 
+[ Sat Jan  7 16:00:46 2017 ]=>  Boss [306398602] used /get !code Sajjad Daios
+ 
+[ Sat Jan  7 16:00:46 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Sajjad Daios
+ 
+[ Sat Jan  7 16:01:07 2017 ]=>  Boss [306398602] used /get !hyper Sajjad Khar
+ 
+[ Sat Jan  7 16:01:07 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Sajjad
+ 
+[ Sat Jan  7 16:01:45 2017 ]=>  Boss [306398602] used /get !blod Sajjad Khar
+ 
+[ Sat Jan  7 16:02:03 2017 ]=>  Boss [306398602] used /get !italic Sajjad Khar
+ 
+[ Sat Jan  7 16:02:04 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Sajjad Khar
+ 
+[ Sat Jan  7 16:02:16 2017 ]=>  Boss [306398602] used /get !bold Sajjad
+ 
+[ Sat Jan  7 16:02:16 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Sajjad
+ 
+[ Sat Jan  7 16:02:26 2017 ]=>  Boss [306398602] used /get ای خوشکه
+ 
+[ Sat Jan  7 16:02:43 2017 ]=>  Boss [306398602] used /get منم از فردا اینو میزنم
+ 
+[ Sat Jan  7 16:04:51 2017 ]=>  Boss [306398602] used /get #rmsg 100
+ 
+[ Sat Jan  7 16:06:27 2017 ]=>  Boss [306398602] used /get #rmsg 200
+ 
+[ Sat Jan  7 16:06:28 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Removing Has Been Finished.
+ 
+[ Sat Jan  7 16:06:51 2017 ]=>  Boss [306398602] used /get #rmsg 100
+ 
+[ Sat Jan  7 16:06:53 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Removing Has Been Finished.
+ 
+[ Sat Jan  7 16:07:01 2017 ]=>  Boss [306398602] used /get #rmsg 100
+ 
+[ Sat Jan  7 16:07:03 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Removing Has Been Finished.
+ 
+[ Sat Jan  7 16:07:14 2017 ]=>  Boss [306398602] used /get #rmsg 100
+ 
+[ Sat Jan  7 16:07:44 2017 ]=>  Boss [306398602] used /get !!tgservice chat_add_user
+ 
+[ Sat Jan  7 16:07:44 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name :  Yasin_Shadow
+Username  : @yasin_shadow2017
+ID : 270595585
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Your Reagents Name : Boss
+Your Reagents Username : @To_My_Amigos
+Your Reagents ID : 306398602
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 16:07:50 2017 ]=>  Yasin_Shadow [270595585] used /get سلام
+ 
+[ Sat Jan  7 16:07:58 2017 ]=>  Boss [306398602] used /get علیک
+ 
+[ Sat Jan  7 16:08:21 2017 ]=>  Yasin_Shadow [270595585] used /get داش کیارش
+ 
+[ Sat Jan  7 16:08:26 2017 ]=>  Yasin_Shadow [270595585] used /get plz promote کن
+ 
+[ Sat Jan  7 16:08:27 2017 ]=>  Boss [306398602] used /get بله
+ 
+[ Sat Jan  7 16:08:37 2017 ]=>  Boss [306398602] used /get #promote
+ 
+[ Sat Jan  7 16:08:37 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @yasin_shadow2017 Has Been Promoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 16:08:39 2017 ]=>  Yasin_Shadow [270595585] used /get مرسی
+ 
+[ Sat Jan  7 16:08:43 2017 ]=>  Yasin_Shadow [270595585] used /get !help
+ 
+[ Sat Jan  7 16:08:51 2017 ]=>  Yasin_Shadow [270595585] used /get !rmsg 10
+ 
+[ Sat Jan  7 16:08:52 2017 ]=>  《_AntiSpam_》™ [188813923] used /get For Moderators Only !
+ 
+[ Sat Jan  7 16:08:58 2017 ]=>  Yasin_Shadow [270595585] used /get شرمنده
+ 
+[ Sat Jan  7 16:09:23 2017 ]=>  Boss [306398602] used /get #demote
+ 
+[ Sat Jan  7 16:09:23 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @yasin_shadow2017 Has Been Demoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 16:09:26 2017 ]=>  Yasin_Shadow [270595585] used /get ادمین  کن
+ 
+[ Sat Jan  7 16:09:31 2017 ]=>  Boss [306398602] used /get جنبشو نداری
+ 
+[ Sat Jan  7 16:09:37 2017 ]=>  Yasin_Shadow [270595585] used /get کاری نکردم
+ 
+[ Sat Jan  7 16:09:38 2017 ]=>  Yasin_Shadow [270595585] used /get تست کردم
+ 
+[ Sat Jan  7 16:09:41 2017 ]=>  Yasin_Shadow [270595585] used /get گفتم ببینم کارمیکنه
+ 
+[ Sat Jan  7 16:09:44 2017 ]=>  Yasin_Shadow [270595585] used /get چون اونور نیستم
+ 
+[ Sat Jan  7 16:09:58 2017 ]=>  Yasin_Shadow [270595585] used /get !info
+ 
+[ Sat Jan  7 16:09:58 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name : Yasin Shadow
+First Name : Yasin
+Last Name : Shadow
+
+Phone Number : -----
+Username : @yasin_shadow2017
+ID : 270595585
+
+Rank : -----
+Station : Member
+
+Connected Device : PC
+Messages : 294
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+ 
+[ Sat Jan  7 16:09:59 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 16:10:08 2017 ]=>  Boss [306398602] used /get پشت سر هم زیاد پی ام نده
+ 
+[ Sat Jan  7 16:10:09 2017 ]=>  Yasin_Shadow [270595585] used /get اینو چطوری عوض کردی
+ 
+[ Sat Jan  7 16:10:16 2017 ]=>  Boss [306398602] used /get امشب ساختم
+ 
+[ Sat Jan  7 16:10:20 2017 ]=>  Yasin_Shadow [270595585] used /get باشه داداش چشم
+لطف کن اونور کن 
+مرسی
+ 
+[ Sat Jan  7 16:10:33 2017 ]=>  Yasin_Shadow [270595585] used /get به منم بده اینی که ساختی 
+لطفا به منم بده و بهم بگو چطوری عوض کنم
+ 
+[ Sat Jan  7 16:10:50 2017 ]=>  Yasin_Shadow [270595585] used /get به خدا پیام زیاد نمیدم
+قول میدم بهت و دستور هم اجرا نمیکنم
+ 
+[ Sat Jan  7 16:10:56 2017 ]=>  Yasin_Shadow [270595585] used /get خوب شد اینبار
+ 
+[ Sat Jan  7 16:10:58 2017 ]=>  Boss [306398602] used /get با برنامه عکسشو بساز
+ 
+[ Sat Jan  7 16:10:59 2017 ]=>  Yasin_Shadow [270595585] used /get پیام ها؟
+ 
+[ Sat Jan  7 16:11:12 2017 ]=>  Yasin_Shadow [270595585] used /get باشه اونور کن
+ 
+[ Sat Jan  7 16:11:18 2017 ]=>  Yasin_Shadow [270595585] used /get !setowner @yasin_shadow2017
+ 
+[ Sat Jan  7 16:11:34 2017 ]=>  Yasin_Shadow [270595585] used /get !setowner
+ 
+[ Sat Jan  7 16:11:42 2017 ]=>  Yasin_Shadow [270595585] used /get .
+ 
+[ Sat Jan  7 16:11:44 2017 ]=>  Boss [306398602] used /get اشتباه میزنی
+ 
+[ Sat Jan  7 16:11:52 2017 ]=>  Boss [306398602] used /get اینجا گپ ساپورته
+ 
+[ Sat Jan  7 16:11:55 2017 ]=>  Yasin_Shadow [270595585] used /get خب منو اونر کن
+ 
+[ Sat Jan  7 16:11:55 2017 ]=>  Boss [306398602] used /get مال منه
+ 
+[ Sat Jan  7 16:11:57 2017 ]=>  Yasin_Shadow [270595585] used /get میدونم
+ 
+[ Sat Jan  7 16:12:01 2017 ]=>  Yasin_Shadow [270595585] used /get برای این نوشتم
+ 
+[ Sat Jan  7 16:12:02 2017 ]=>  Yasin_Shadow [270595585] used /get که بزنیش
+ 
+[ Sat Jan  7 16:12:07 2017 ]=>  Yasin_Shadow [270595585] used /get منو اونور کن
+ 
+[ Sat Jan  7 16:12:18 2017 ]=>  Boss [306398602] used /get تو رو صاحب گروه کنم ؟؟
+ 
+[ Sat Jan  7 16:12:20 2017 ]=>  Yasin_Shadow [270595585] used /get به خدا پیام زیاد نمیدم
+قول میدم بهت و دستور هم اجرا نمیکنم
+ 
+[ Sat Jan  7 16:12:30 2017 ]=>  Boss [306398602] used /get .
+ 
+[ Sat Jan  7 16:12:39 2017 ]=>  Yasin_Shadow [270595585] used /get بله
+ 
+[ Sat Jan  7 16:12:58 2017 ]=>  Boss [306398602] used /get دیگه امر دیگه ای نداری ؟؟
+ 
+[ Sat Jan  7 16:13:02 2017 ]=>  Yasin_Shadow [270595585] used /get داش اذیت نکن
+ 
+[ Sat Jan  7 16:13:12 2017 ]=>  Boss [306398602] used /get گپ خودمه
+ 
+[ Sat Jan  7 16:13:18 2017 ]=>  Boss [306398602] used /get یهو زد ب سرم
+ 
+[ Sat Jan  7 16:13:23 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get از بلاک در بیار
+ 
+[ Sat Jan  7 16:13:23 2017 ]=>  Boss [306398602] used /get ریموت میکنم یاسین
+ 
+[ Sat Jan  7 16:13:28 2017 ]=>  نوراتل [299065764] used /get با این تلگرام ول نمیکنه چرا
+ 
+[ Sat Jan  7 16:13:38 2017 ]=>  Yasin_Shadow [270595585] used /get نکن
+ 
+[ Sat Jan  7 16:13:40 2017 ]=>  Yasin_Shadow [270595585] used /get نکن
+ 
+[ Sat Jan  7 16:13:41 2017 ]=>  Yasin_Shadow [270595585] used /get لطفا
+ 
+[ Sat Jan  7 16:13:47 2017 ]=>  Boss [306398602] used /get پس بشین
+ 
+[ Sat Jan  7 16:13:48 2017 ]=>  نوراتل [299065764] used /get ساختار لینکو اومده تغیر داده کونده
+ 
+[ Sat Jan  7 16:13:51 2017 ]=>  Boss [306398602] used /get هیچی نگو
+ 
+[ Sat Jan  7 16:13:56 2017 ]=>  Yasin_Shadow [270595585] used /get بابا ادمین بشم چی میشه
+ 
+[ Sat Jan  7 16:13:58 2017 ]=>  Yasin_Shadow [270595585] used /get چیزی نمیشه
+ 
+[ Sat Jan  7 16:14:02 2017 ]=>  نوراتل [299065764] used /get ساختار لینکو امده تغیر داده
+ 
+[ Sat Jan  7 16:14:08 2017 ]=>  نوراتل [299065764] used /get اره اعصابم خورده
+ 
+[ Sat Jan  7 16:14:12 2017 ]=>  Boss [306398602] used /get خخخخ
+ 
+[ Sat Jan  7 16:14:20 2017 ]=>  نوراتل [299065764] used /get https://t.me/joinchat/AAAAAD8qytsUmYnoglVrZu
+ 
+[ Sat Jan  7 16:14:27 2017 ]=>  نوراتل [299065764] used /get پاک نمیکنه
+ 
+[ Sat Jan  7 16:14:28 2017 ]=>  Yasin_Shadow [270595585] used /get https://telegram.me/joinchat/AAAAAD8qytsUmYnoglVrZu
+ 
+[ Sat Jan  7 16:14:35 2017 ]=>  Boss [306398602] used /get !lock links
+ 
+[ Sat Jan  7 16:14:41 2017 ]=>  نوراتل [299065764] used /get https://t.me/joinchat/AAAAAD8qytsUmYnoglVrZw
+ 
+[ Sat Jan  7 16:14:42 2017 ]=>  Boss [306398602] used /get الان بده
+ 
+[ Sat Jan  7 16:14:48 2017 ]=>  Yasin_Shadow [270595585] used /get ریمو شد
+ 
+[ Sat Jan  7 16:14:49 2017 ]=>  Yasin_Shadow [270595585] used /get خخخخ
+ 
+[ Sat Jan  7 16:15:02 2017 ]=>  Boss [306398602] used /get !unlock strict
+ 
+[ Sat Jan  7 16:15:11 2017 ]=>  Boss [306398602] used /get !invite @Noratel2
+ 
+[ Sat Jan  7 16:15:19 2017 ]=>  Yasin_Shadow [270595585] used /get چرا مال من این دستورو نداره.
+ 
+[ Sat Jan  7 16:15:24 2017 ]=>  Boss [306398602] used /get ربات بی شعور
+ 
+[ Sat Jan  7 16:15:37 2017 ]=>  Boss [306398602] used /get داره عزیزم تست کن
+ 
+[ Sat Jan  7 16:15:54 2017 ]=>  Yasin_Shadow [270595585] used /get اوکی
+ 
+[ Sat Jan  7 16:16:03 2017 ]=>  Yasin_Shadow [270595585] used /get سجاد پیوی چک
+ 
+[ Sat Jan  7 16:16:23 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کلا  گفتم از بلاک در بیار
+ 
+[ Sat Jan  7 16:16:33 2017 ]=>  Yasin_Shadow [270595585] used /get بلاک میکنم پس 😂😂😂
+ 
+[ Sat Jan  7 16:16:41 2017 ]=>  Boss [306398602] used /get [document]
+ 
+[ Sat Jan  7 16:16:48 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get تو بلاک کن منم ریمو میکنم😕
+ 
+[ Sat Jan  7 16:16:51 2017 ]=>  Yasin_Shadow [270595585] used /get این اینی که ساختی چطوری ساختی ؟
+ 
+[ Sat Jan  7 16:16:55 2017 ]=>  Yasin_Shadow [270595585] used /get این عکس
+ 
+[ Sat Jan  7 16:16:56 2017 ]=>  Yasin_Shadow [270595585] used /get عضو
+ 
+[ Sat Jan  7 16:16:59 2017 ]=>  Yasin_Shadow [270595585] used /get !ingo
+ 
+[ Sat Jan  7 16:17:01 2017 ]=>  Yasin_Shadow [270595585] used /get !info
+ 
+[ Sat Jan  7 16:17:09 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get باز بلاک کردی؟
+ 
+[ Sat Jan  7 16:17:11 2017 ]=>  Yasin_Shadow [270595585] used /get کیارش بیا
+ 
+[ Sat Jan  7 16:17:14 2017 ]=>  Yasin_Shadow [270595585] used /get فحش میده الکی
+ 
+[ Sat Jan  7 16:17:16 2017 ]=>  Boss [306398602] used /get #demote ‌
+ 
+[ Sat Jan  7 16:17:25 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get نکس
+ 
+[ Sat Jan  7 16:17:26 2017 ]=>  Yasin_Shadow [270595585] used /get بعد میگی فحش چرا میدم
+ 
+[ Sat Jan  7 16:17:31 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کونی
+ 
+[ Sat Jan  7 16:17:32 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get دوباره
+ 
+[ Sat Jan  7 16:17:33 2017 ]=>  Boss [306398602] used /get سجاد نامووست
+ 
+[ Sat Jan  7 16:17:34 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بلاک کرد
+ 
+[ Sat Jan  7 16:17:38 2017 ]=>  Yasin_Shadow [270595585] used /get اقا بلاک درنمیارم
+ 
+[ Sat Jan  7 16:17:41 2017 ]=>  Yasin_Shadow [270595585] used /get تا دلت میخواد فحش بده
+ 
+[ Sat Jan  7 16:17:42 2017 ]=>  Yasin_Shadow [270595585] used /get بای
+ 
+[ Sat Jan  7 16:17:46 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کس ننت
+ 
+[ Sat Jan  7 16:17:51 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get خارکونی
+ 
+[ Sat Jan  7 16:17:52 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get بچه کون
+ 
+[ Sat Jan  7 16:17:53 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیری
+ 
+[ Sat Jan  7 16:17:55 2017 ]=>  Boss [306398602] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 16:17:56 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  ŠĀjjÃĐ💀HįŢłęŘ
+Username  : @Sajjad_hitler
+ID : 219745562
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 16:18:59 2017 ]=>  Boss [306398602] used /get !me
+ 
+[ Sat Jan  7 16:19:00 2017 ]=>  《_AntiSpam_》™ [188813923] used /get You Are My Sudo ;)
+ 
+[ Sat Jan  7 16:19:00 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 16:19:06 2017 ]=>  Yasin_Shadow [270595585] used /get چطوری ساختی
+ 
+[ Sat Jan  7 16:19:08 2017 ]=>  Yasin_Shadow [270595585] used /get تروخدا
+ 
+[ Sat Jan  7 16:19:17 2017 ]=>  Yasin_Shadow [270595585] used /get یا این دوتا
+ 
+[ Sat Jan  7 16:19:19 2017 ]=>  Yasin_Shadow [270595585] used /get که ساختی برام بفرستش
+ 
+[ Sat Jan  7 16:20:00 2017 ]=>  Boss [306398602] used /get تو عکسش درست کن
+ 
+[ Sat Jan  7 16:20:06 2017 ]=>  Boss [306398602] used /get تا من بگم چطور درست کنی
+ 
+[ Sat Jan  7 16:20:07 2017 ]=>  Yasin_Shadow [270595585] used /get خودت
+ 
+[ Sat Jan  7 16:20:08 2017 ]=>  Yasin_Shadow [270595585] used /get بفرستش
+ 
+[ Sat Jan  7 16:20:13 2017 ]=>  Yasin_Shadow [270595585] used /get بلد نستم
+ 
+[ Sat Jan  7 16:20:16 2017 ]=>  Yasin_Shadow [270595585] used /get مثل شما
+ 
+[ Sat Jan  7 16:20:18 2017 ]=>  Yasin_Shadow [270595585] used /get بسازم
+ 
+[ Sat Jan  7 16:20:25 2017 ]=>  Yasin_Shadow [270595585] used /get برام بفرست این 2 تا عکسی که درست کردی
+ 
+[ Sat Jan  7 16:20:34 2017 ]=>  Yasin_Shadow [270595585] used /get اماده بفرست میخوام بزارمش توی سورس
+ 
+[ Sat Jan  7 16:20:42 2017 ]=>  Yasin_Shadow [270595585] used /get !info
+ 
+[ Sat Jan  7 16:20:42 2017 ]=>  Boss [306398602] used /get نه این مخصوص خودمه
+ 
+[ Sat Jan  7 16:20:42 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name : Yasin Shadow
+First Name : Yasin
+Last Name : Shadow
+
+Phone Number : -----
+Username : @yasin_shadow2017
+ID : 270595585
+
+Rank : -----
+Station : Member
+
+Connected Device : PC
+Messages : 347
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+ 
+[ Sat Jan  7 16:20:43 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 16:20:52 2017 ]=>  Yasin_Shadow [270595585] used /get دا ش
+ 
+[ Sat Jan  7 16:20:54 2017 ]=>  Yasin_Shadow [270595585] used /get داری اذیت میکنی
+ 
+[ Sat Jan  7 16:20:58 2017 ]=>  Yasin_Shadow [270595585] used /get نه کمک کردی ادیت بزنی
+ 
+[ Sat Jan  7 16:21:00 2017 ]=>  Yasin_Shadow [270595585] used /get نه هیچی
+ 
+[ Sat Jan  7 16:21:04 2017 ]=>  Yasin_Shadow [270595585] used /get زیر قولتم
+ 
+[ Sat Jan  7 16:21:05 2017 ]=>  Yasin_Shadow [270595585] used /get زدی
+ 
+[ Sat Jan  7 16:21:10 2017 ]=>  Yasin_Shadow [270595585] used /get حداقل اینو نامردی نکن
+ 
+[ Sat Jan  7 16:21:16 2017 ]=>  Yasin_Shadow [270595585] used /get بفرست لطفا
+ 
+[ Sat Jan  7 16:21:31 2017 ]=>  Yasin_Shadow [270595585] used /get بفرست لطفا
+ 
+[ Sat Jan  7 16:21:34 2017 ]=>  Boss [306398602] used /get #rmsg 200
+ 
+[ Sat Jan  7 16:21:38 2017 ]=>  Yasin_Shadow [270595585] used /get بفرست
+ 
+[ Sat Jan  7 16:21:39 2017 ]=>  Yasin_Shadow [270595585] used /get plz
+ 
+[ Sat Jan  7 16:22:02 2017 ]=>  Yasin_Shadow [270595585] used /get بلد نیستم
+ 
+[ Sat Jan  7 16:22:03 2017 ]=>  Yasin_Shadow [270595585] used /get خب
+ 
+[ Sat Jan  7 16:22:05 2017 ]=>  Boss [306398602] used /get یاسین جان عزیزت پا فشاری نکن اعصابم خورده
+ 
+[ Sat Jan  7 16:22:08 2017 ]=>  Yasin_Shadow [270595585] used /get مگه بهم بدی چی ازت کم میشه
+ 
+[ Sat Jan  7 16:22:13 2017 ]=>  Yasin_Shadow [270595585] used /get بابا
+ 
+[ Sat Jan  7 16:22:15 2017 ]=>  Yasin_Shadow [270595585] used /get عکسارو بده
+ 
+[ Sat Jan  7 16:22:16 2017 ]=>  Yasin_Shadow [270595585] used /get نمیخورنت
+ 
+[ Sat Jan  7 16:22:17 2017 ]=>  《_AntiSpam_》™ [188813923] used /get User : Yasin_Shadow
+Username : @yasin_shadow2017
+Status : Kicked By Bot For Flooding
+
+From: Support_《_AntiSpam_》™.
+ 
+[ Sat Jan  7 16:22:20 2017 ]=>  Boss [306398602] used /get خودم فردا چهارتا ب اسم خودن برات میسازم
+ 
+[ Sat Jan  7 16:22:34 2017 ]=>  Boss [306398602] used /get !invite @yasin_shadow2017
+ 
+[ Sat Jan  7 16:22:48 2017 ]=>  Yasin_Shadow [270595585] used /get بابا این 2 تارو
+ 
+[ Sat Jan  7 16:22:48 2017 ]=>  Boss [306398602] used /get گفتم پشت سر هم زیاد پی ام نده
+ 
+[ Sat Jan  7 16:22:49 2017 ]=>  Yasin_Shadow [270595585] used /get بدی
+ 
+[ Sat Jan  7 16:22:51 2017 ]=>  Yasin_Shadow [270595585] used /get چی ازت ک میشه
+ 
+[ Sat Jan  7 16:22:57 2017 ]=>  Yasin_Shadow [270595585] used /get خب این 2 تا رو بدی چی ازت کم میشه
+ 
+[ Sat Jan  7 16:24:30 2017 ]=>  Yasin_Shadow [270595585] used /get پی وی بچک
+ 
+[ Sat Jan  7 16:25:25 2017 ]=>  Yasin_Shadow [270595585] used /get داش پی وی عکسارو بده
+ 
+[ Sat Jan  7 16:25:34 2017 ]=>  Yasin_Shadow [270595585] used /get !info
+ 
+[ Sat Jan  7 16:25:34 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name : Yasin Shadow
+First Name : Yasin
+Last Name : Shadow
+
+Phone Number : -----
+Username : @yasin_shadow2017
+ID : 270595585
+
+Rank : -----
+Station : Member
+
+Connected Device : PC
+Messages : 372
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+ 
+[ Sat Jan  7 16:25:35 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 16:26:08 2017 ]=>  Yasin_Shadow [270595585] used /get داش کیارش
+ 
+[ Sat Jan  7 16:26:12 2017 ]=>  Yasin_Shadow [270595585] used /get مثل ادم پیوی عکسارو بده
+ 
+[ Sat Jan  7 16:26:14 2017 ]=>  Yasin_Shadow [270595585] used /get مثل یه انسان
+ 
+[ Sat Jan  7 16:26:21 2017 ]=>  Yasin_Shadow [270595585] used /get ببینم چقدر معرفت داری
+ 
+[ Sat Jan  7 16:26:31 2017 ]=>  Yasin_Shadow [270595585] used /get اگر داشته باشی میدی
+ 
+[ Sat Jan  7 16:26:41 2017 ]=>  Yasin_Shadow [270595585] used /get ولی متاسفانه نداری
+ 
+[ Sat Jan  7 16:26:55 2017 ]=>  Boss [306398602] used /get ب ناموس خانوادم دیگه هیچوقت رایگان کار نمیکنم
+ 
+[ Sat Jan  7 16:27:01 2017 ]=>  Boss [306398602] used /get حرفم بزنی ریموت میکنم
+ 
+[ Sat Jan  7 16:27:14 2017 ]=>  Yasin_Shadow [270595585] used /get کس نگو
+ 
+[ Sat Jan  7 16:27:15 2017 ]=>  Yasin_Shadow [270595585] used /get شرفت
+ 
+[ Sat Jan  7 16:27:19 2017 ]=>  Yasin_Shadow [270595585] used /get کس بی کس
+ 
+[ Sat Jan  7 16:27:23 2017 ]=>  Yasin_Shadow [270595585] used /get نکص
+ 
+[ Sat Jan  7 16:27:25 2017 ]=>  Yasin_Shadow [270595585] used /get نکص
+ 
+[ Sat Jan  7 16:27:29 2017 ]=>  Yasin_Shadow [270595585] used /get ن ک ص
+ 
+[ Sat Jan  7 16:27:36 2017 ]=>  Yasin_Shadow [270595585] used /get لطفا بده
+ 
+[ Sat Jan  7 16:27:37 2017 ]=>  Yasin_Shadow [270595585] used /get خواهشا
+ 
+[ Sat Jan  7 16:27:44 2017 ]=>  Yasin_Shadow [270595585] used /get بابا 2 تا عکسه چیزی ازت کم نمیشه
+ 
+[ Sat Jan  7 16:28:36 2017 ]=>  Boss [306398602] used /get گفتم فردا برات میسازم ب اسم تله کینگ
+ 
+[ Sat Jan  7 16:28:57 2017 ]=>  Boss [306398602] used /get یک بار تکرار میکنم
+ 
+[ Sat Jan  7 16:28:57 2017 ]=>  Yasin_Shadow [270595585] used /get باشه
+ 
+[ Sat Jan  7 16:28:59 2017 ]=>  Yasin_Shadow [270595585] used /get بدی اینارو
+ 
+[ Sat Jan  7 16:29:00 2017 ]=>  Yasin_Shadow [270595585] used /get چی میشه
+ 
+[ Sat Jan  7 16:29:09 2017 ]=>  Yasin_Shadow [270595585] used /get بیا
+ 
+[ Sat Jan  7 16:29:11 2017 ]=>  Yasin_Shadow [270595585] used /get این یکیش
+ 
+[ Sat Jan  7 16:29:15 2017 ]=>  Yasin_Shadow [270595585] used /get [photo]
+ 
+[ Sat Jan  7 16:29:21 2017 ]=>  Yasin_Shadow [270595585] used /get اون یکی رو بده
+ 
+[ Sat Jan  7 16:29:26 2017 ]=>  Boss [306398602] used /get خودت ببر
+ 
+[ Sat Jan  7 16:29:36 2017 ]=>  Yasin_Shadow [270595585] used /get اینفو بزن
+ 
+[ Sat Jan  7 16:29:43 2017 ]=>  Boss [306398602] used /get نمیزنن
+ 
+[ Sat Jan  7 16:29:45 2017 ]=>  Boss [306398602] used /get م
+ 
+[ Sat Jan  7 16:29:49 2017 ]=>  Yasin_Shadow [270595585] used /get بزن
+ 
+[ Sat Jan  7 16:29:50 2017 ]=>  Yasin_Shadow [270595585] used /get ناموسا
+ 
+[ Sat Jan  7 16:29:53 2017 ]=>  Yasin_Shadow [270595585] used /get تا ببرمش
+ 
+[ Sat Jan  7 16:29:53 2017 ]=>  Yasin_Shadow [270595585] used /get خب
+ 
+[ Sat Jan  7 16:30:00 2017 ]=>  Yasin_Shadow [270595585] used /get نامردی اگر نزنی
+ 
+[ Sat Jan  7 16:30:07 2017 ]=>  Yasin_Shadow [270595585] used /get !info
+ 
+[ Sat Jan  7 16:30:07 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Full Name : Yasin Shadow
+First Name : Yasin
+Last Name : Shadow
+
+Phone Number : -----
+Username : @yasin_shadow2017
+ID : 270595585
+
+Rank : -----
+Station : Member
+
+Connected Device : PC
+Messages : 401
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+ 
+[ Sat Jan  7 16:30:08 2017 ]=>  《_AntiSpam_》™ [188813923] used /get [document]
+ 
+[ Sat Jan  7 16:30:11 2017 ]=>  Yasin_Shadow [270595585] used /get بزن
+ 
+[ Sat Jan  7 16:30:19 2017 ]=>  Yasin_Shadow [270595585] used /get اینفو
+ 
+[ Sat Jan  7 16:30:21 2017 ]=>  Yasin_Shadow [270595585] used /get ایفنو
+ 
+[ Sat Jan  7 16:30:31 2017 ]=>  Boss [306398602] used /get یاسین ریموت میکنم از ساپورت ببخش ...خیلی رو رو اعصابی ...
+ 
+[ Sat Jan  7 16:30:35 2017 ]=>  Yasin_Shadow [270595585] used /get نه
+ 
+[ Sat Jan  7 16:30:37 2017 ]=>  Yasin_Shadow [270595585] used /get پیام نمیدم
+ 
+[ Sat Jan  7 16:30:39 2017 ]=>  Yasin_Shadow [270595585] used /get فقط بزن
+ 
+[ Sat Jan  7 16:30:39 2017 ]=>  Boss [306398602] used /get #kick
+ 
+[ Sat Jan  7 16:30:41 2017 ]=>  《_AntiSpam_》™ [188813923] used /get User : Yasin_Shadow
+Username : @yasin_shadow2017
+Status : Kicked By Bot For Flooding
+
+From: Support_《_AntiSpam_》™.
+ 
+[ Sat Jan  7 16:30:58 2017 ]=>  Boss [306398602] used /get #rmsg 1000
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get مواظب حرفت باش
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get باشه خواهش میکنم پاهاتو می بوسم
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get داری زیادی رو مخم میری
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get این 2 تا عکسو
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get ربات بود
+ 
+[ Sat Jan  7 16:39:45 2017 ]=>  Boss [306398602] used /get بده
+ 
+[ Sat Jan  7 16:49:04 2017 ]=>  Boss [306398602] used /get !!tgservice chat_add_user
+ 
+[ Sat Jan  7 16:49:04 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Welcome :)
+
+Your Specifications
+
+Name :  ŠĀjjÃĐ💀HįŢłęŘ
+Username  : @Sajjad_hitler
+ID : 219745562
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Your Reagents Name : Boss
+Your Reagents Username : @To_My_Amigos
+Your Reagents ID : 306398602
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 16:59:22 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیارش
+ 
+[ Sat Jan  7 16:59:38 2017 ]=>  Boss [306398602] used /get جون
+ 
+[ Sat Jan  7 17:01:02 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get یاسینو ادکن
+ 
+[ Sat Jan  7 17:01:04 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کارش دارم
+ 
+[ Sat Jan  7 17:01:12 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get منو
+promot کن
+ 
+[ Sat Jan  7 17:01:15 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ی لحظه
+ 
+[ Sat Jan  7 17:01:18 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ی چی بگم بهش
+ 
+[ Sat Jan  7 17:01:20 2017 ]=>  Boss [306398602] used /get #promote
+ 
+[ Sat Jan  7 17:01:20 2017 ]=>  《_AntiSpam_》™ [188813923] used /get @Sajjad_hitler Is Already A Moderator
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 17:01:44 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get یاسینو ادکن
+ 
+[ Sat Jan  7 17:02:18 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get یاسین بیا بالا
+ 
+[ Sat Jan  7 17:02:34 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get یا معذرت خواهی میکنی یا میدم ای پی سرورتو اتک بزنن
+ 
+[ Sat Jan  7 17:02:40 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get همین الان سرورت دست منخ
+ 
+[ Sat Jan  7 17:02:41 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get ه
+ 
+[ Sat Jan  7 17:03:07 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get الانم واردش میشم فایلای رباتتو پاک میکنم
+ 
+[ Sat Jan  7 17:03:15 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get کیارش سورس تو روش بود؟
+ 
+[ Sat Jan  7 17:03:37 2017 ]=>  Boss [306398602] used /get اره
+ 
+[ Sat Jan  7 17:04:32 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get حله
+ 
+[ Sat Jan  7 17:07:32 2017 ]=>  ŠĀjjÃĐ💀HįŢłęŘ [219745562] used /get [document]
+ 
+[ Sat Jan  7 17:09:29 2017 ]=>  MR.sadegh [323602699] used /get !!tgservice chat_add_user_link
+ 
+[ Sat Jan  7 17:09:29 2017 ]=>  《_AntiSpam_》™ [188813923] used /get Hi Dear Welcome :)
+
+Your Specifications
+
+Name  :  MR.sadegh
+Username : @s_q_s_q
+ID : 323602699
+-------------
+Groups Name : Support 《 AntiSpam 》™
+Groups ID : 1054628471
+-------------
+Channel : @AntiSpam_TM
+
+
+ 

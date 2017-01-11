@@ -1,0 +1,20 @@
+[ Sat Jan  7 11:19:07 2017 ]=>  Boss [306398602] used /get /chats
+ 
+[ Sat Jan  7 11:19:12 2017 ]=>  Boss [306398602] used /get /help
+ 
+[ Sat Jan  7 11:19:18 2017 ]=>  Boss [306398602] used /get /groups
+ 
+[ Sat Jan  7 11:21:37 2017 ]=>  Boss [306398602] used /get /me
+ 
+[ Sat Jan  7 11:21:44 2017 ]=>  Boss [306398602] used /get /info
+ 
+[ Sat Jan  7 15:51:26 2017 ]=>  Boss [306398602] used /get !broadcast hi
+ 
+[ Sat Jan  7 15:51:45 2017 ]=>  Boss [306398602] used /get !bc 289798411 Hi Dear We Are A New AntiSpam Telegram Bots
+
+You Can Use :
+
+#tophoto For Change Sticker To Photo 
+
+#tosticker For Change Photo To Sticker
+ 

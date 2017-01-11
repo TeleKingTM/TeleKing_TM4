@@ -1,0 +1,382 @@
+[ Sat Jan  7 17:26:35 2017 ]=>  Al [270595585] used /get !!tgservice chat_add_user
+ 
+[ Sat Jan  7 17:26:36 2017 ]=>  《Tele_King_》 [323210377] used /get Hello Dear Member Welcome :)
+
+Your Specifications
+
+Name :  《Tele_King_》
+Username  : @Sskkllhh
+ID : 323210377
+-------------
+Groups Name : Support 《 Tele King 》™
+Groups ID : 1055430347
+-------------
+Your Reagents Name : Al
+Your Reagents Username : @ Does't Have
+Your Reagents ID : 270595585
+-------------
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 17:26:42 2017 ]=>  Al [270595585] used /get !add
+ 
+[ Sat Jan  7 17:26:46 2017 ]=>  Al [270595585] used /get !help
+ 
+[ Sat Jan  7 17:26:54 2017 ]=>  Al [270595585] used /get !plugins *
+ 
+[ Sat Jan  7 17:30:00 2017 ]=>  Al [270595585] used /get !add
+ 
+[ Sat Jan  7 17:30:03 2017 ]=>  《Tele_King_》 [323210377] used /get SuperGroup Has Been Added
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 17:30:07 2017 ]=>  Al [270595585] used /get !help
+ 
+[ Sat Jan  7 17:30:07 2017 ]=>  《Tele_King_》 [323210377] used /get 
+** SuperGroup English Help Text With English Commands **
+
+⚓️!block
+Kicks a user from SuperGroup
+
+⚓️!bot [on|off]
+On or off the bot
+			
+⚓️!kick
+Kicks a user from SuperGroup	
+			
+⚓️!who
+Gives you a list of members
+			
+⚓️!ban
+Bans user from the SuperGroup
+			
+⚓️!unban
+Unbans user from the SuperGroup
+			
+⚓️!id from
+Get ID of user message is forwarded from
+			
+⚓️!promote [username|id]
+Promote a SuperGroup moderator
+			
+⚓️!demote [username|id]
+Demote a SuperGroup moderator
+						
+⚓️!setadmin [username|id]
+Promote a SuperGroup admin		
+			
+⚓️!demoteadmin [username|id]
+Demote a SuperGroup admin	
+						
+⚓️[!setname|!setphoto|!setrules|!setabout]
+Sets the chat name, photo, rules, about text
+			
+⚓️!newlink
+Generates a new group link
+			
+⚓️!link
+Retireives the group link
+			
+⚓️[!lock|!unlock] [link|flood|spam|arabic|english|member|rtl|sticker|contacts|strict|media|bots|fwd|reply|share|tag|number|badwords|cmd|username|all]
+Lock group settings
+
+⚓️!price
+Gives you the bots price for buy
+						
+⚓️!setflood [value]
+Set [value] as flood sensitivity, Max:20 and Min:2
+
+⚓️!setprice [text]
+Set price for selling your bot
+			
+⚓️!settings
+Returns chat settings
+
+⚓️[!silent] [reply on users msg|username|id ]
+Silents user
+
+⚓️[!unsilent] [reply on users msg|username|id ]
+Unsilents user
+			
+⚓️!silentlist
+Returns mutes or mute lists for chat
+
+⚓️[!whitelist] [reply on users msg|username|id ]
+Adds user/bot to whitelist
+		
+⚓️!banlist
+Returns SuperGroup ban list
+
+⚓️!rmsg [value]
+Delets groups message by value
+			
+⚓️!clean [rules|about|modlist|silentlist|deleted|whitelist]
+Cleans those you see or (deleted) kicks deleted accounts
+			
+⚓️!clear members		
+Kicks All Members
+
+⚓️!del
+Deletes a message by reply
+			
+⚓️!public [yes|no]
+Set chat visibility in pm !chats or !chatlist commands
+
+⚓️!chats
+Show list of bot groups in pv
+			
+⚓️!broadcast [text]
+Send this command in PV . the bot well send your massege to all groups and supergroups
+
+⚓️!muteall
+Mute's all
+
+⚓️!muteall h m s 
+Muteall witn timer
+h Hour(s)
+m Minute(s)
+s Second(s)
+
+⚓️!chat + [text]
+Saves a text with its first words name
+			
+⚓️!chat - [text]
+Removes the saved text
+			
+⚓️!chat rm
+Removes all saved texts
+			
+⚓️!antibot [enable / disable / allow / disallow]
+activating anti-bot for let then enter or not fo channels
+			
+** SuperGroup Commands: (For memebers and moderators!) **
+
+⚓️!tophoto
+Converts sticker to photo
+			
+⚓️!tosticker
+Converts photo to sticker
+
+⚓️!weather [location]
+Gives you news about that places weathe you want
+			
+⚓️!version
+Displays a general text about the AntiSpam Cli Bot  
+			
+⚓️!info
+Displays general info about the SuperGroup
+			
+⚓️!admins
+Returns SuperGroup admins list
+			
+⚓️!owner
+Returns group owner
+			
+⚓️!modlist
+Returns Moderators list
+
+⚓️!me
+Shows your rank
+			
+⚓️!id
+Return SuperGroup ID And user id
+			
+⚓️!kickme
+Kicks user from SuperGroup
+			
+⚓️!note [text]
+Add a note
+			
+⚓️!mynote
+Get note
+								
+⚓️!rules
+Retrieves the chat rules
+			
+⚓️!price
+Gives you the bots price for buy			
+						
+⚓️!dler [link]
+Download files from link specialy from aparat
+			
+⚓️!time
+Shows IRAN's time and date
+
+***********************************
+
+🌹Welcome To AntiSpam_TM Support🌹
+
+Channel : 《 @AntiSpam_TM 》™
+
+Creator : 《 @To_My_Amigos 》
+
+Reports : 《 @To_My_Amigos_Bot 》
+
+😊 Who Start's The Fight Get's Removed 
+So Be Friends 😊
+
+Link :
+
+https://telegram.me/joinchat/EkNFij7cWnespVgwzrlABQ
+
+************************************
+
+ 
+[ Sat Jan  7 17:30:12 2017 ]=>  Al [270595585] used /get !promote @Sskkllhh
+ 
+[ Sat Jan  7 17:30:13 2017 ]=>  《Tele_King_》 [323210377] used /get @Sskkllhh Has Been Promoted
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 17:31:02 2017 ]=>  Al [270595585] used /get !plugins *
+ 
+[ Sat Jan  7 17:31:02 2017 ]=>  《Tele_King_》 [323210377] used /get 
+All Plugins Reloaded
+
+30 Plugins Enabled
+30 Plugins Installed
+
+Created By @To_My_Amigos
+Our Channel @AntiSpam_TM
+ 
+[ Sat Jan  7 17:31:10 2017 ]=>  Al [270595585] used /get !plugins
+ 
+[ Sat Jan  7 17:31:11 2017 ]=>  《Tele_King_》 [323210377] used /get 1./Enabled *➣ all 
+2./Enabled *➣ anti_bot 
+3./Enabled *➣ anti_spam 
+4./Enabled *➣ banhammer 
+5./Enabled *➣ broadcast 
+6./Enabled *➣ chat 
+7./Enabled *➣ cleandeleted 
+8./Enabled *➣ clear_members 
+9./Enabled *➣ dler 
+10./Enabled *➣ help 
+11./Enabled *➣ info 
+12./Enabled *➣ invite 
+13./Enabled *➣ lock_badwords 
+14./Enabled *➣ lock_emoji 
+15./Enabled *➣ lock_english 
+16./Enabled *➣ lock_username 
+17./Enabled *➣ mute-all 
+18./Enabled *➣ on_off 
+19./Enabled *➣ plugins 
+20./Enabled *➣ price 
+21./Enabled *➣ private 
+22./Enabled *➣ rmsg 
+23./Enabled *➣ security 
+24./Enabled *➣ sudo 
+25./Enabled *➣ supergroup 
+26./Enabled *➣ time 
+27./Enabled *➣ tools 
+28./Enabled *➣ weather 
+29./Enabled *➣ whitelist 
+30./Enabled *➣ wlc_and_bye 
+
+
+30 Plugins Installed
+
+30 Plugins Enabled
+
+0 Plugins Disabled
+
+
+ 
+[ Sat Jan  7 17:31:29 2017 ]=>  Al [270595585] used /get !plugins
+ 
+[ Sat Jan  7 17:31:30 2017 ]=>  《Tele_King_》 [323210377] used /get 1./Enabled *➣ all 
+2./Enabled *➣ anti_bot 
+3./Enabled *➣ anti_spam 
+4./Enabled *➣ banhammer 
+5./Enabled *➣ broadcast 
+6./Enabled *➣ chat 
+7./Enabled *➣ cleandeleted 
+8./Enabled *➣ clear_members 
+9./Enabled *➣ dler 
+10./Enabled *➣ help 
+11./Enabled *➣ info 
+12./Enabled *➣ invite 
+13./Enabled *➣ lock_badwords 
+14./Enabled *➣ lock_emoji 
+15./Enabled *➣ lock_english 
+16./Enabled *➣ lock_username 
+17./Enabled *➣ mute-all 
+18./Enabled *➣ on_off 
+19./Enabled *➣ plugins 
+20./Enabled *➣ price 
+21./Enabled *➣ private 
+22./Enabled *➣ rmsg 
+23./Enabled *➣ security 
+24./Enabled *➣ sudo 
+25./Enabled *➣ supergroup 
+26./Enabled *➣ time 
+27./Enabled *➣ tools 
+28./Enabled *➣ weather 
+29./Enabled *➣ whitelist 
+30./Enabled *➣ wlc_and_bye 
+
+
+30 Plugins Installed
+
+30 Plugins Enabled
+
+0 Plugins Disabled
+
+
+ 
+[ Sat Jan  7 17:31:49 2017 ]=>  Al [270595585] used /get !private
+ 
+[ Sat Jan  7 17:32:21 2017 ]=>  Al [270595585] used /get !invite @To_My_Amigos
+ 
+[ Sat Jan  7 17:32:29 2017 ]=>  Al [270595585] used /get !!tgservice chat_del_user
+ 
+[ Sat Jan  7 17:32:29 2017 ]=>  《Tele_King_》 [323210377] used /get خدانگهدار دوست عزیز امیدوارم برگردی😘
+ 
+[ Sat Jan  7 17:32:29 2017 ]=>  《Tele_King_》 [323210377] used /get Bye Dear Member
+
+Your Specifications
+
+Name :  हई★TIЯ_Д_HДCKEЯ_15★ईह
+Username  : @mrMT5
+ID : 130962237
+-------------
+Groups Name : Support 《 Tele King 》™
+Groups ID : 1055430347
+-------------
+You Are Not In Our Group Anymore
+Channel : @AntiSpam_TM
+
+
+ 
+[ Sat Jan  7 17:32:52 2017 ]=>  Al [270595585] used /get !invite @To_My_Amigos
+ 
+[ Sat Jan  7 17:33:09 2017 ]=>  Al [270595585] used /get !get invite
+ 
+[ Sat Jan  7 17:33:10 2017 ]=>  《Tele_King_》 [323210377] used /get [document]
+ 
+[ Sat Jan  7 17:33:21 2017 ]=>  Al [270595585] used /get /invite @To_My_Amigos
+ 
+[ Sat Jan  7 17:33:29 2017 ]=>  Al [270595585] used /get !invite @noratel2
+ 
+[ Sat Jan  7 17:33:49 2017 ]=>  Al [270595585] used /get !info
+ 
+[ Sat Jan  7 17:33:50 2017 ]=>  《Tele_King_》 [323210377] used /get Full Name : Al
+First Name : Al
+Last Name : -----
+
+Phone Number : ****0938146
+State : Islamic Republic Of Iran
+Sim Type : IRANCELL
+Username : @-----
+ID : 270595585
+
+Rank : -----
+Station : Sudo ⭐⭐⭐⭐⭐
+
+Connected Device : PC
+Messages : 2785
+Groups Name : Support 《 Tele King 》™
+Groups ID : 1055430347
+ 
+[ Sat Jan  7 17:33:51 2017 ]=>  《Tele_King_》 [323210377] used /get [document]
+ 
